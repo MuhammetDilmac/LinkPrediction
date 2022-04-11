@@ -1,0 +1,394 @@
+tournament_year,player1_name,player2_name,weight
+Network 3_extract,Lewis A.,Anderson G.,1
+Network 3_extract,Lewis A.,Van der Voort V.,1
+Network 3_extract,Lewis A.,Thornton R.,1
+Network 3_extract,Lewis A.,Dudbridge M.,1
+Network 3_extract,Lewis A.,Eccles T.,1
+Network 3_extract,Lewis A.,McDine K.,1
+Network 3_extract,Lewis A.,Newton W.,1
+Network 3_extract,Lewis A.,Nicholson P.,1
+Network 3_extract,Lewis A.,Stewart R.,1
+Network 3_extract,Lewis A.,Askew D.,1
+Network 3_extract,Lewis A.,Jenkins A.,1
+Network 3_extract,Lewis A.,Jones W.,1
+Network 3_extract,Lewis A.,Fleet A.,1
+Network 3_extract,Lewis A.,Honey D.,1
+Network 3_extract,Anderson G.,van Barneveld R.,1
+Network 3_extract,Anderson G.,Priestley D.,1
+Network 3_extract,Anderson G.,Hashimoto M.,1
+Network 3_extract,Van der Voort V.,Ridd P.,1
+Network 3_extract,Van der Voort V.,Duo D.,1
+Network 3_extract,Van der Voort V.,Bezzeg N.,1
+Network 3_extract,Van der Voort V.,Klaasen J.,1
+Network 3_extract,Thornton R.,Heydon N.,1
+Network 3_extract,Thornton R.,Artut J.,1
+Network 3_extract,Thornton R.,Perez C.,1
+Network 3_extract,Dudbridge M.,Roy A.,1
+Network 3_extract,Dudbridge M.,Welge A.,1
+Network 3_extract,Dudbridge M.,Fullwell N.,1
+Network 3_extract,Dudbridge M.,Hine S.,1
+Network 3_extract,Dudbridge M.,Hamilton A.,1
+Network 3_extract,Dudbridge M.,Kuczynski J.,1
+Network 3_extract,Dudbridge M.,Tabern A.,1
+Network 3_extract,Dudbridge M.,Young D.,1
+Network 3_extract,Eccles T.,Dolan B.,1
+Network 3_extract,Eccles T.,Van Eijden R.,1
+Network 3_extract,McDine K.,Bates B.,1
+Network 3_extract,Newton W.,Jenkins T.,1
+Network 3_extract,Newton W.,Dolan B.,1
+Network 3_extract,Newton W.,Young D.,1
+Network 3_extract,Newton W.,Komula J.,1
+Network 3_extract,Newton W.,Laursen P.,1
+Network 3_extract,Newton W.,Caven J.,1
+Network 3_extract,Newton W.,Wada T.,1
+Network 3_extract,Newton W.,Matsunaga Y.,1
+Network 3_extract,Nicholson P.,Wright P.,1
+Network 3_extract,Nicholson P.,Farmer S.,1
+Network 3_extract,Nicholson P.,Wade J.,1
+Network 3_extract,Nicholson P.,Priestley D.,1
+Network 3_extract,Askew D.,Tabern A.,1
+Network 3_extract,Askew D.,Burchell M.,1
+Network 3_extract,Askew D.,Convery G.,1
+Network 3_extract,Jenkins A.,Stompe C.,1
+Network 3_extract,Jenkins A.,Tabern A.,1
+Network 3_extract,Jenkins A.,Navratil M.,1
+Network 3_extract,Jenkins A.,Osborne C.,1
+Network 3_extract,Jenkins A.,Smith A.,1
+Network 3_extract,Jenkins A.,Davis B.,1
+Network 3_extract,Jenkins A.,Jones W.,1
+Network 3_extract,Jenkins A.,Bulen P.,1
+Network 3_extract,Jones W.,Van der Voort V.,1
+Network 3_extract,Jones W.,Shepherd K.,1
+Network 3_extract,Jones W.,Roy A.,1
+Network 3_extract,Jones W.,Thornton R.,1
+Network 3_extract,Jones W.,Eccles T.,1
+Network 3_extract,Jones W.,Branks I.,1
+Network 3_extract,Jones W.,Manley P.,1
+Network 3_extract,Jones W.,Alker S.,1
+Network 3_extract,van Barneveld R.,Osborne C.,1
+Network 3_extract,van Barneveld R.,McDine K.,1
+Network 3_extract,van Barneveld R.,Hine S.,1
+Network 3_extract,van Barneveld R.,Whitlock S.,1
+Network 3_extract,van Barneveld R.,Baxter R.,1
+Network 3_extract,van Barneveld R.,Painter K.,1
+Network 3_extract,van Barneveld R.,Dolan B.,1
+Network 3_extract,van Barneveld R.,Parry W.,1
+Network 3_extract,van Barneveld R.,Wade J.,1
+Network 3_extract,van Barneveld R.,Klaasen J.,1
+Network 3_extract,van Barneveld R.,Newton W.,1
+Network 3_extract,van Barneveld R.,Stephenson M.,1
+Network 3_extract,van Barneveld R.,Clark J.,1
+Network 3_extract,van Barneveld R.,Forde A.,1
+Network 3_extract,van Barneveld R.,Taylor P.,1
+Network 3_extract,van Barneveld R.,Jenkins A.,1
+Network 3_extract,van Barneveld R.,Tabern A.,1
+Network 3_extract,van Barneveld R.,Vonck R.,1
+Network 3_extract,van Barneveld R.,Clegg M.,1
+Network 3_extract,Priestley D.,Roith B.,1
+Network 3_extract,Priestley D.,McDine K.,1
+Network 3_extract,Priestley D.,Magowan J.,1
+Network 3_extract,Priestley D.,French W.,1
+Network 3_extract,Priestley D.,Maish S.,1
+Network 3_extract,Priestley D.,Hamilton A.,1
+Network 3_extract,Priestley D.,Laursen P.,1
+Network 3_extract,Priestley D.,Schenk J.,1
+Network 3_extract,Priestley D.,Lewis A.,1
+Network 3_extract,Jenkins T.,Anderson G.,1
+Network 3_extract,Jenkins T.,Walsh M.,1
+Network 3_extract,Jenkins T.,Brown S.,1
+Network 3_extract,Jenkins T.,Cullen J.,1
+Network 3_extract,Jenkins T.,Whitlock S.,1
+Network 3_extract,Jenkins T.,Young D.,1
+Network 3_extract,Jenkins T.,Nicholson P.,1
+Network 3_extract,Jenkins T.,Smith D.,1
+Network 3_extract,Jenkins T.,Shepherd K.,1
+Network 3_extract,Jenkins T.,Hamilton A.,1
+Network 3_extract,Jenkins T.,Wade J.,1
+Network 3_extract,Jenkins T.,Beaton S.,1
+Network 3_extract,Jenkins T.,Lawrence M.,1
+Network 3_extract,Jenkins T.,Mann J.,1
+Network 3_extract,Walsh M.,Tabern A.,1
+Network 3_extract,Walsh M.,Pipe J.,1
+Network 3_extract,Walsh M.,Webster M.,1
+Network 3_extract,Walsh M.,Caven J.,1
+Network 3_extract,Walsh M.,Vonck R.,1
+Network 3_extract,Walsh M.,Smith D.,1
+Network 3_extract,Walsh M.,Parry W.,1
+Network 3_extract,Whitlock S.,Van der Voort V.,1
+Network 3_extract,Whitlock S.,Ovens D.,1
+Network 3_extract,Whitlock S.,Evans S.,1
+Network 3_extract,Whitlock S.,Wade J.,1
+Network 3_extract,Whitlock S.,Jones W.,1
+Network 3_extract,Smith D.,King M.,1
+Network 3_extract,Smith D.,McDine K.,1
+Network 3_extract,Smith D.,Salmon M.,1
+Network 3_extract,Shepherd K.,Webster M.,1
+Network 3_extract,Shepherd K.,Burnett S.,1
+Network 3_extract,Shepherd K.,Van der Rassel J.,1
+Network 3_extract,Shepherd K.,Part J.,1
+Network 3_extract,Shepherd K.,Bates B.,1
+Network 3_extract,Shepherd K.,McGowan M.,1
+Network 3_extract,Hamilton A.,Thornton R.,1
+Network 3_extract,Hamilton A.,Smith D.,1
+Network 3_extract,Hamilton A.,Beaton S.,1
+Network 3_extract,Hamilton A.,Kijamet O.,1
+Network 3_extract,Hamilton A.,Klaasen J.,1
+Network 3_extract,Hamilton A.,Ayres T.,1
+Network 3_extract,Hamilton A.,Barnard M.,1
+Network 3_extract,Hamilton A.,Roy A.,1
+Network 3_extract,Hamilton A.,Kwadijk L.,1
+Network 3_extract,Hamilton A.,Welding G.,1
+Network 3_extract,Wade J.,Suljovic M.,1
+Network 3_extract,Wade J.,Alcinas T.,1
+Network 3_extract,Wade J.,Hamilton A.,1
+Network 3_extract,Wade J.,van Gerwen M.,1
+Network 3_extract,Wade J.,Brown S.,1
+Network 3_extract,Wade J.,Van der Voort V.,1
+Network 3_extract,Wade J.,Eccles T.,1
+Network 3_extract,Wade J.,Dolan B.,1
+Network 3_extract,Wade J.,Dudbridge M.,1
+Network 3_extract,Wade J.,Beaton S.,1
+Network 3_extract,Wade J.,MacArthur S.,1
+Network 3_extract,Wade J.,Ladley D.,1
+Network 3_extract,Wade J.,French W.,1
+Network 3_extract,Wade J.,Jones W.,1
+Network 3_extract,Beaton S.,Hylton M.,1
+Network 3_extract,Beaton S.,Rodriguez C.,1
+Network 3_extract,Beaton S.,Evans S.,1
+Network 3_extract,Beaton S.,Convery G.,1
+Network 3_extract,Beaton S.,Van der Rassel J.,1
+Network 3_extract,Webster M.,Lewis A.,1
+Network 3_extract,Webster M.,Hylton M.,1
+Network 3_extract,Webster M.,Maish S.,1
+Network 3_extract,Webster M.,van Barneveld R.,1
+Network 3_extract,Webster M.,Manley P.,1
+Network 3_extract,Maish S.,Eccles T.,1
+Network 3_extract,Maish S.,Havenga W.,1
+Network 3_extract,Maish S.,Clark J.,1
+Network 3_extract,Manley P.,Jenkins A.,1
+Network 3_extract,Manley P.,Suljovic M.,1
+Network 3_extract,Manley P.,Shepherd K.,1
+Network 3_extract,Manley P.,Van der Rassel J.,1
+Network 3_extract,Manley P.,Warriner-Little A.,1
+Network 3_extract,Manley P.,Greebe T.,1
+Network 3_extract,Manley P.,Havenga W.,1
+Network 3_extract,Manley P.,Jowett D.,1
+Network 3_extract,Manley P.,Taylor P.,1
+Network 3_extract,Manley P.,Lewis A.,1
+Network 3_extract,Manley P.,Smith D.,1
+Network 3_extract,Manley P.,Clark J.,1
+Network 3_extract,Manley P.,Spiolek K.,1
+Network 3_extract,Taylor P.,Webster M.,1
+Network 3_extract,Taylor P.,Wright P.,1
+Network 3_extract,Taylor P.,Laursen P.,1
+Network 3_extract,Taylor P.,Mawson G.,1
+Network 3_extract,Taylor P.,Whitlock S.,1
+Network 3_extract,Taylor P.,Lewis A.,1
+Network 3_extract,Taylor P.,Thornton R.,1
+Network 3_extract,Taylor P.,Hine S.,1
+Network 3_extract,Taylor P.,Monk C.,1
+Network 3_extract,Taylor P.,van Barneveld R.,1
+Network 3_extract,Taylor P.,King M.,1
+Network 3_extract,Taylor P.,Stompe C.,1
+Network 3_extract,Taylor P.,Painter K.,1
+Network 3_extract,Taylor P.,van Gerwen M.,1
+Network 3_extract,Taylor P.,Grubb S.,1
+Network 3_extract,Taylor P.,Mardle W.,1
+Network 3_extract,Taylor P.,Tabern A.,1
+Network 3_extract,Taylor P.,Walsh M.,1
+Network 3_extract,Taylor P.,Hamilton A.,1
+Network 3_extract,Taylor P.,Webster D.,1
+Network 3_extract,Taylor P.,Mason C.,1
+Network 3_extract,Taylor P.,McGowan M.,1
+Network 3_extract,Taylor P.,Pein A.,1
+Network 3_extract,Taylor P.,Clark M.,1
+Network 3_extract,Taylor P.,Platt D.,1
+Network 3_extract,Laursen P.,Krcmar B.,1
+Network 3_extract,Laursen P.,Perez C.,1
+Network 3_extract,Mawson G.,Gionzon J.,1
+Network 3_extract,Monk C.,Laursen P.,1
+Network 3_extract,Monk C.,Smith A.,1
+Network 3_extract,King M.,Smith A.,1
+Network 3_extract,King M.,Caris M.,1
+Network 3_extract,King M.,Stompe C.,1
+Network 3_extract,King M.,Clark M.,1
+Network 3_extract,King M.,Bates B.,1
+Network 3_extract,King M.,Walsh M.,1
+Network 3_extract,King M.,Yongsheng S.,1
+Network 3_extract,King M.,Rosenauer M.,1
+Network 3_extract,Stompe C.,Wright P.,1
+Network 3_extract,Stompe C.,Webster M.,1
+Network 3_extract,Stompe C.,Dudbridge M.,1
+Network 3_extract,Stompe C.,Maish S.,1
+Network 3_extract,Painter K.,Dolan B.,1
+Network 3_extract,Painter K.,Van der Voort V.,1
+Network 3_extract,Painter K.,Suljovic M.,1
+Network 3_extract,Painter K.,Clark M.,1
+Network 3_extract,Painter K.,Part J.,1
+Network 3_extract,Painter K.,Lewis A.,1
+Network 3_extract,Painter K.,Mason C.,1
+Network 3_extract,Painter K.,Mawson G.,1
+Network 3_extract,Painter K.,Osborne C.,1
+Network 3_extract,Painter K.,Dudbridge M.,1
+Network 3_extract,Painter K.,Newton W.,1
+Network 3_extract,Painter K.,Newton D.,1
+Network 3_extract,van Gerwen M.,Suljovic M.,1
+Network 3_extract,van Gerwen M.,Wright P.,1
+Network 3_extract,van Gerwen M.,Young D.,1
+Network 3_extract,Mardle W.,Artut J.,1
+Network 3_extract,Mardle W.,Stompe C.,1
+Network 3_extract,Mardle W.,Thornton R.,1
+Network 3_extract,Mardle W.,Fatum D.,1
+Network 3_extract,Mardle W.,Shepherd K.,1
+Network 3_extract,Mardle W.,Caven J.,1
+Network 3_extract,Mardle W.,Carver R.,1
+Network 3_extract,Mardle W.,Caves A.,1
+Network 3_extract,Mardle W.,Warriner-Little A.,1
+Network 3_extract,Mardle W.,Part J.,1
+Network 3_extract,Mardle W.,Clarys E.,1
+Network 3_extract,Mardle W.,Roach B.,1
+Network 3_extract,Tabern A.,Burnett R.,1
+Network 3_extract,Tabern A.,Dudbridge M.,1
+Network 3_extract,Tabern A.,MacNeil K.,1
+Network 3_extract,Tabern A.,Stompe C.,1
+Network 3_extract,Tabern A.,Beaton S.,1
+Network 3_extract,Tabern A.,Laursen P.,1
+Network 3_extract,Webster D.,Extercatte E.,1
+Network 3_extract,Mason C.,Magowan J.,1
+Network 3_extract,Mason C.,Brown S.,1
+Network 3_extract,Mason C.,Part J.,1
+Network 3_extract,Mason C.,Atwood W.,1
+Network 3_extract,Mason C.,Hine S.,1
+Network 3_extract,McGowan M.,Barry J.,1
+Network 3_extract,Clark M.,McGowan M.,1
+Network 3_extract,Clark M.,Woods K.,1
+Network 3_extract,Osborne C.,Caven J.,1
+Network 3_extract,Osborne C.,Thompson C.,1
+Network 3_extract,Osborne C.,Whitlock S.,1
+Network 3_extract,Osborne C.,Van der Voort V.,1
+Network 3_extract,Osborne C.,Losper C.,1
+Network 3_extract,Osborne C.,Extercatte E.,1
+Network 3_extract,Osborne C.,Newton W.,1
+Network 3_extract,Baxter R.,Webster M.,1
+Network 3_extract,Baxter R.,Scholten R.,1
+Network 3_extract,Baxter R.,Lloyd C.,1
+Network 3_extract,Baxter R.,Anderson G.,1
+Network 3_extract,Baxter R.,Muramatsu H.,1
+Network 3_extract,Baxter R.,Ovens D.,1
+Network 3_extract,Baxter R.,Kantele M.,1
+Network 3_extract,Baxter R.,Dudbridge M.,1
+Network 3_extract,Baxter R.,Olson D.,1
+Network 3_extract,Baxter R.,Gray A.,1
+Network 3_extract,Baxter R.,Carver R.,1
+Network 3_extract,Klaasen J.,Brown S.,1
+Network 3_extract,Klaasen J.,Bates B.,1
+Network 3_extract,Klaasen J.,Van der Rassel J.,1
+Network 3_extract,Vonck R.,Cyr B.,1
+Network 3_extract,Komula J.,Konchikov R.,1
+Network 3_extract,Caven J.,Petersen D.,1
+Network 3_extract,Caven J.,Anderson G.,1
+Network 3_extract,Suljovic M.,Newton W.,1
+Network 3_extract,Suljovic M.,Dudbridge M.,1
+Network 3_extract,Losper C.,Fitzgerald S.,1
+Network 3_extract,Ovens D.,Artut J.,1
+Network 3_extract,Ovens D.,Van der Rassel J.,1
+Network 3_extract,Ovens D.,Maish S.,1
+Network 3_extract,Ovens D.,Monk C.,1
+Network 3_extract,Ovens D.,Tabern A.,1
+Network 3_extract,Ovens D.,Smith S.,1
+Network 3_extract,Ovens D.,Alker S.,1
+Network 3_extract,Ovens D.,Wylie G.,1
+Network 3_extract,Smith A.,Anderson G.,1
+Network 3_extract,Smith A.,Tichowitsch S.,1
+Network 3_extract,Smith A.,Young D.,1
+Network 3_extract,Smith A.,Ayres T.,1
+Network 3_extract,Smith A.,Suljovic M.,1
+Network 3_extract,Smith A.,Yongsheng S.,1
+Network 3_extract,Smith A.,Warriner-Little A.,1
+Network 3_extract,Warriner-Little A.,Yongsheng S.,1
+Network 3_extract,Warriner-Little A.,Tabern A.,1
+Network 3_extract,Warriner-Little A.,Convery G.,1
+Network 3_extract,Warriner-Little A.,Welge A.,1
+Network 3_extract,Artut J.,MacKenzie S.,1
+Network 3_extract,Bates B.,McDine K.,1
+Network 3_extract,Bates B.,Dudbridge M.,1
+Network 3_extract,Bates B.,McBrearty F.,1
+Network 3_extract,Bates B.,Extercatte E.,1
+Network 3_extract,Bates B.,Convery G.,1
+Network 3_extract,Bates B.,Cyr B.,1
+Network 3_extract,Caris M.,Burger D.,1
+Network 3_extract,Caris M.,Ruiz F.,1
+Network 3_extract,French W.,Nagakawa A.,1
+Network 3_extract,Petersen D.,Madhoo N.,1
+Network 3_extract,Van der Rassel J.,Ovens D.,1
+Network 3_extract,Roy A.,McDine K.,1
+Network 3_extract,Roy A.,Part J.,1
+Network 3_extract,Roy A.,Parry W.,1
+Network 3_extract,Roy A.,Burnett R.,1
+Network 3_extract,Roy A.,Tabern A.,1
+Network 3_extract,MacNeil K.,Madhoo N.,1
+Network 3_extract,Kuczynski J.,Van der Rassel J.,1
+Network 3_extract,Lloyd C.,Hylton M.,1
+Network 3_extract,Lloyd C.,Welge A.,1
+Network 3_extract,Lloyd C.,Ovens D.,1
+Network 3_extract,Lloyd C.,Klaasen J.,1
+Network 3_extract,Lloyd C.,Van der Rassel J.,1
+Network 3_extract,Lloyd C.,van Barneveld R.,1
+Network 3_extract,Lloyd C.,Seyler T.,1
+Network 3_extract,Lloyd C.,Welding G.,1
+Network 3_extract,Seyler T.,Yongsheng S.,1
+Network 3_extract,Welding G.,Jones W.,1
+Network 3_extract,Welding G.,Kuczynski J.,1
+Network 3_extract,Welding G.,Extercatte E.,1
+Network 3_extract,Scholten R.,Viinikka V.,1
+Network 3_extract,Scholten R.,Hine S.,1
+Network 3_extract,Scholten R.,Rodriguez C.,1
+Network 3_extract,Scholten R.,Mardle W.,1
+Network 3_extract,Scholten R.,King M.,1
+Network 3_extract,Scholten R.,Clark M.,1
+Network 3_extract,Scholten R.,Osborne C.,1
+Network 3_extract,Scholten R.,Roy A.,1
+Network 3_extract,Scholten R.,Miller R.,1
+Network 3_extract,Scholten R.,Lewis A.,1
+Network 3_extract,Scholten R.,Seyler T.,1
+Network 3_extract,Scholten R.,Whitcombe D.,1
+Network 3_extract,Muramatsu H.,Kciuk K.,1
+Network 3_extract,Kantele M.,Ilagan L.,1
+Network 3_extract,Gray A.,Nicholson P.,1
+Network 3_extract,Gray A.,Walsh M.,1
+Network 3_extract,Gray A.,Webster D.,1
+Network 3_extract,Carver R.,Smith A.,1
+Network 3_extract,Mansell M.,Ridd P.,1
+Network 3_extract,Part J.,Laursen P.,1
+Network 3_extract,Part J.,Shepherd K.,1
+Network 3_extract,Part J.,Greebe T.,1
+Network 3_extract,Part J.,Davis B.,1
+Network 3_extract,Part J.,Wade J.,1
+Network 3_extract,Part J.,Suljovic M.,1
+Network 3_extract,Part J.,Losper C.,1
+Network 3_extract,Part J.,Green A.,1
+Network 3_extract,Part J.,Mason C.,1
+Network 3_extract,Part J.,Liu C. A.,1
+Network 3_extract,Davis B.,Bates B.,1
+Network 3_extract,Padgett M.,Hashimoto M.,1
+Network 3_extract,Rodriguez C.,Painter K.,1
+Network 3_extract,Van Eijden R.,Dobromyslova A.,1
+Network 3_extract,Havenga W.,Webster D.,1
+Network 3_extract,Hazel P.,Kijamet O.,1
+Network 3_extract,O'Neill A.,Francis L.,1
+Network 3_extract,Fatum D.,O'Connor S.,1
+Network 3_extract,Caves A.,Askew D.,1
+Network 3_extract,Caves A.,Alker S.,1
+Network 3_extract,Clarys E.,Cadogan W.,1
+Network 3_extract,Nagakawa A.,Forde A.,1
+Network 3_extract,Schnier H.,Yongsheng S.,1
+Network 3_extract,Anderson B.,Clark J.,1
+Network 3_extract,Anderson B.,Webster D.,1
+Network 3_extract,Anderson B.,Hamilton A.,1
+Network 3_extract,Barellano R.,Navratil M.,1
+Network 3_extract,Bolton A.,Extercatte E.,1
+Network 3_extract,Sayed A.,Yongsheng S.,1
+Network 3_extract,Sams L.,Ladley D.,1
+Network 3_extract,Sams L.,Kuczynski J.,1
+Network 3_extract,Harvey J.,Seyler T.,1
+Network 3_extract,player1_name,player2_name,0

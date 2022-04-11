@@ -1,0 +1,448 @@
+tournament_year,player1_name,player2_name,weight
+Network 5_extract,Smith M.,Wright P.,1
+Network 5_extract,Smith M.,Wade J.,1
+Network 5_extract,Smith M.,O'Connor W.,1
+Network 5_extract,Smith M.,Meulenkamp R.,1
+Network 5_extract,Smith M.,Lowe J.,1
+Network 5_extract,Smith M.,Woodhouse L.,1
+Network 5_extract,Smith M.,Aspinall N.,1
+Network 5_extract,Smith M.,Henderson J.,1
+Network 5_extract,Smith M.,Cross R.,1
+Network 5_extract,Smith M.,Lennon S.,1
+Network 5_extract,Wright P.,Anderson G.,1
+Network 5_extract,Wright P.,Rydz C.,1
+Network 5_extract,Wright P.,Searle R.,1
+Network 5_extract,Wright P.,Heta D.,1
+Network 5_extract,Wright P.,Meikle R.,1
+Network 5_extract,Wright P.,Clemens G.,1
+Network 5_extract,Wright P.,West S.,1
+Network 5_extract,Wright P.,Price G.,1
+Network 5_extract,Wright P.,de Zwaan J.,1
+Network 5_extract,Wright P.,Asada S.,1
+Network 5_extract,Wright P.,Malicdem N.,1
+Network 5_extract,Wright P.,Alcinas T.,1
+Network 5_extract,Wright P.,Lewis J.,1
+Network 5_extract,Wright P.,Portela D.,1
+Network 5_extract,Wade J.,King M.,1
+Network 5_extract,Wade J.,Kleermaker M.,1
+Network 5_extract,Wade J.,Van der Voort V.,1
+Network 5_extract,Wade J.,Kuivenhoven M.,1
+Network 5_extract,Wade J.,Bunting S.,1
+Network 5_extract,Wade J.,Rydz C.,1
+Network 5_extract,Wade J.,Beaton S.,1
+Network 5_extract,Wade J.,Edhouse R.,1
+Network 5_extract,Wade J.,Brown K.,1
+Network 5_extract,Wade J.,Asada S.,1
+Network 5_extract,O'Connor W.,Lauby D. Jr.,1
+Network 5_extract,O'Connor W.,Zonneveld N.,1
+Network 5_extract,O'Connor W.,Kantele M.,1
+Network 5_extract,O'Connor W.,Meeuwisse Y.,1
+Network 5_extract,Meulenkamp R.,Ashton L.,1
+Network 5_extract,Meulenkamp R.,Krcmar B.,1
+Network 5_extract,Meulenkamp R.,Robb B.,1
+Network 5_extract,Meulenkamp R.,Portela D.,1
+Network 5_extract,Lowe J.,Larsson D.,1
+Network 5_extract,Lowe J.,Petersen D.,1
+Network 5_extract,Lowe J.,Gorbunov D.,1
+Network 5_extract,Woodhouse L.,Wilson J.,1
+Network 5_extract,Woodhouse L.,Lewis J.,1
+Network 5_extract,Woodhouse L.,van den Bergh D.,1
+Network 5_extract,Woodhouse L.,Lim P.,1
+Network 5_extract,Aspinall N.,Rydz C.,1
+Network 5_extract,Aspinall N.,Murnan J.,1
+Network 5_extract,Aspinall N.,Van der Voort V.,1
+Network 5_extract,Aspinall N.,Waites S.,1
+Network 5_extract,Aspinall N.,van den Bergh D.,1
+Network 5_extract,Aspinall N.,Ratajski K.,1
+Network 5_extract,Aspinall N.,Baggish D.,1
+Network 5_extract,Aspinall N.,Dolan B.,1
+Network 5_extract,Aspinall N.,Petersen D.,1
+Network 5_extract,Aspinall N.,Anderson K.,1
+Network 5_extract,Aspinall N.,Nentjes G.,1
+Network 5_extract,Henderson J.,Kantele M.,1
+Network 5_extract,Henderson J.,Richardson J.,1
+Network 5_extract,Henderson J.,Clemens G.,1
+Network 5_extract,Henderson J.,Cross R.,1
+Network 5_extract,Cross R.,Gurney D.,1
+Network 5_extract,Cross R.,van Barneveld R.,1
+Network 5_extract,Cross R.,van Duijvenbode D.,1
+Network 5_extract,Cross R.,Huybrechts K.,1
+Network 5_extract,Cross R.,Humphries L.,1
+Network 5_extract,Cross R.,Reyes C.,1
+Network 5_extract,Cross R.,de Zwaan J.,1
+Network 5_extract,Cross R.,Taylor P.,1
+Network 5_extract,Cross R.,Asada S.,1
+Network 5_extract,Lennon S.,King M.,1
+Network 5_extract,Lennon S.,Razma M.,1
+Network 5_extract,Lennon S.,Larsson D.,1
+Network 5_extract,Lennon S.,Rydz C.,1
+Network 5_extract,Lennon S.,Bailey J.,1
+Network 5_extract,Anderson G.,Cross R.,1
+Network 5_extract,Anderson G.,White I.,1
+Network 5_extract,Anderson G.,Lewis A.,1
+Network 5_extract,Anderson G.,Price G.,1
+Network 5_extract,Anderson G.,van Duijvenbode D.,1
+Network 5_extract,Anderson G.,Suljovic M.,1
+Network 5_extract,Anderson G.,Razma M.,1
+Network 5_extract,Anderson G.,Aspinall N.,1
+Network 5_extract,Anderson G.,Searle R.,1
+Network 5_extract,Anderson G.,Dolan B.,1
+Network 5_extract,Anderson G.,Chisnall D.,1
+Network 5_extract,Anderson G.,Dobey C.,1
+Network 5_extract,Anderson G.,Wattimena J.,1
+Network 5_extract,Anderson G.,Burness K.,1
+Network 5_extract,Anderson G.,West S.,1
+Network 5_extract,Anderson G.,Lim P.,1
+Network 5_extract,Anderson G.,Smith J.,1
+Network 5_extract,Rydz C.,Yamada Y.,1
+Network 5_extract,Rydz C.,Bailey J.,1
+Network 5_extract,Searle R.,Noppert D.,1
+Network 5_extract,Searle R.,Borland W.,1
+Network 5_extract,Searle R.,Lauby D. Jr.,1
+Network 5_extract,Searle R.,King R.,1
+Network 5_extract,Searle R.,Smith M.,1
+Network 5_extract,Searle R.,O'Connor W.,1
+Network 5_extract,Searle R.,Burton S.,1
+Network 5_extract,Heta D.,Woodhouse L.,1
+Network 5_extract,Heta D.,Baggish D.,1
+Network 5_extract,Meikle R.,Schmutzler F.,1
+Network 5_extract,Meikle R.,Yamada Y.,1
+Network 5_extract,Clemens G.,Williams L.,1
+Network 5_extract,Clemens G.,Ratajski K.,1
+Network 5_extract,Clemens G.,Kurz N.,1
+Network 5_extract,Clemens G.,van de Pas B.,1
+Network 5_extract,Clemens G.,Kirk A.,1
+Network 5_extract,West S.,Gilitwala A.,1
+Network 5_extract,West S.,Searle R.,1
+Network 5_extract,West S.,North R.,1
+Network 5_extract,West S.,Wattimena J.,1
+Network 5_extract,Price G.,Smith M.,1
+Network 5_extract,Price G.,van Duijvenbode D.,1
+Network 5_extract,Price G.,Huybrechts K.,1
+Network 5_extract,Price G.,Edhouse R.,1
+Network 5_extract,Price G.,Gurney D.,1
+Network 5_extract,Price G.,King M.,1
+Network 5_extract,Price G.,Dolan B.,1
+Network 5_extract,Price G.,Lewis J.,1
+Network 5_extract,Price G.,Whitlock S.,1
+Network 5_extract,Price G.,Henderson J.,1
+Network 5_extract,Price G.,O'Connor W.,1
+Network 5_extract,Price G.,Aspinall N.,1
+Network 5_extract,Price G.,White I.,1
+Network 5_extract,Price G.,Evetts T.,1
+Network 5_extract,de Zwaan J.,Searle R.,1
+Network 5_extract,de Zwaan J.,Young D.,1
+Network 5_extract,de Zwaan J.,Kumar N.,1
+Network 5_extract,Asada S.,Mathers G.,1
+Network 5_extract,Alcinas T.,van de Pas B.,1
+Network 5_extract,Alcinas T.,Ross C.,1
+Network 5_extract,Alcinas T.,Webster D.,1
+Network 5_extract,Lewis J.,Chisnall D.,1
+Network 5_extract,Lewis J.,Harris C.,1
+Network 5_extract,Lewis J.,Taylor P.,1
+Network 5_extract,Lewis J.,Webster D.,1
+Network 5_extract,Lewis J.,Richardson J.,1
+Network 5_extract,White I.,Landman C.,1
+Network 5_extract,White I.,Huybrechts K.,1
+Network 5_extract,White I.,Labanauskas D.,1
+Network 5_extract,White I.,Petersen D.,1
+Network 5_extract,White I.,Harris C.,1
+Network 5_extract,Lewis A.,Campbell M.,1
+Network 5_extract,Lewis A.,Baggish D.,1
+Network 5_extract,Lewis A.,Webster D.,1
+Network 5_extract,Lewis A.,Reyes C.,1
+Network 5_extract,Lewis A.,Labanauskas D.,1
+Network 5_extract,Lewis A.,Evetts T.,1
+Network 5_extract,Lewis A.,Munch K.,1
+Network 5_extract,van Duijvenbode D.,Koltsov B.,1
+Network 5_extract,van Duijvenbode D.,Durrant G.,1
+Network 5_extract,van Duijvenbode D.,Hunt A.,1
+Network 5_extract,van Duijvenbode D.,Brooks B.,1
+Network 5_extract,Suljovic M.,Soutar A.,1
+Network 5_extract,Suljovic M.,Edgar M.,1
+Network 5_extract,Suljovic M.,Sherrock F.,1
+Network 5_extract,Suljovic M.,Searle R.,1
+Network 5_extract,Suljovic M.,van den Bergh D.,1
+Network 5_extract,Suljovic M.,Thornton R.,1
+Network 5_extract,Suljovic M.,Painter K.,1
+Network 5_extract,Razma M.,Suzuki T.,1
+Network 5_extract,Dolan B.,Rydz C.,1
+Network 5_extract,Dolan B.,Foulkes E.,1
+Network 5_extract,Dolan B.,Kumar N.,1
+Network 5_extract,Dolan B.,King M.,1
+Network 5_extract,Dolan B.,Liu Y.,1
+Network 5_extract,Chisnall D.,Humphries L.,1
+Network 5_extract,Chisnall D.,de Decker M.,1
+Network 5_extract,Chisnall D.,Anderson G.,1
+Network 5_extract,Chisnall D.,van den Bergh D.,1
+Network 5_extract,Chisnall D.,Noppert D.,1
+Network 5_extract,Chisnall D.,Brown K.,1
+Network 5_extract,Chisnall D.,de Zwaan J.,1
+Network 5_extract,Chisnall D.,Van der Voort V.,1
+Network 5_extract,Chisnall D.,Huybrechts K.,1
+Network 5_extract,Chisnall D.,Payne J.,1
+Network 5_extract,Dobey C.,Humphries L.,1
+Network 5_extract,Dobey C.,Rodriguez Ru. J.,1
+Network 5_extract,Dobey C.,Smith J.,1
+Network 5_extract,Dobey C.,Meulenkamp R.,1
+Network 5_extract,Dobey C.,Koltsov B.,1
+Network 5_extract,Wattimena J.,Koltsov B.,1
+Network 5_extract,Wattimena J.,Kenny N.,1
+Network 5_extract,Wattimena J.,Humphries L.,1
+Network 5_extract,Wattimena J.,Barnard M.,1
+Network 5_extract,Smith J.,Barry K.,1
+Network 5_extract,Smith J.,Humphries L.,1
+Network 5_extract,King M.,Joyce R.,1
+Network 5_extract,King M.,Hopp M.,1
+Network 5_extract,King M.,Teehan C.,1
+Network 5_extract,King M.,Dekker J.,1
+Network 5_extract,King M.,Lerchbacher Z.,1
+Network 5_extract,Kleermaker M.,Michael J.,1
+Network 5_extract,Kleermaker M.,Carolissen C.,1
+Network 5_extract,Van der Voort V.,Hunt A.,1
+Network 5_extract,Van der Voort V.,Gurney D.,1
+Network 5_extract,Van der Voort V.,Meulenkamp R.,1
+Network 5_extract,Van der Voort V.,Barry K.,1
+Network 5_extract,Van der Voort V.,Dobey C.,1
+Network 5_extract,Van der Voort V.,Ilagan L.,1
+Network 5_extract,Van der Voort V.,van Barneveld R.,1
+Network 5_extract,Van der Voort V.,Beaton S.,1
+Network 5_extract,Kuivenhoven M.,Smith K.,1
+Network 5_extract,Kuivenhoven M.,Edgar M.,1
+Network 5_extract,Bunting S.,Smith R.,1
+Network 5_extract,Bunting S.,Price G.,1
+Network 5_extract,Bunting S.,Searle R.,1
+Network 5_extract,Bunting S.,Boulton A.,1
+Network 5_extract,Bunting S.,Justicia J.,1
+Network 5_extract,Bunting S.,Humphries L.,1
+Network 5_extract,Bunting S.,van den Bergh D.,1
+Network 5_extract,Beaton S.,Sherrock F.,1
+Network 5_extract,Beaton S.,Portela D.,1
+Network 5_extract,Beaton S.,Labanauskas D.,1
+Network 5_extract,Beaton S.,Anderson K.,1
+Network 5_extract,Beaton S.,Dobey C.,1
+Network 5_extract,Beaton S.,O'Connor W.,1
+Network 5_extract,Edhouse R.,Hudson P.,1
+Network 5_extract,Edhouse R.,Koltsov B.,1
+Network 5_extract,Brown K.,Meikle R.,1
+Network 5_extract,Brown K.,Asada S.,1
+Network 5_extract,Brown K.,Sedlacek K.,1
+Network 5_extract,Brown K.,Lerchbacher Z.,1
+Network 5_extract,Huybrechts K.,Beaton S.,1
+Network 5_extract,Huybrechts K.,Searle R.,1
+Network 5_extract,Huybrechts K.,Zhuang D.,1
+Network 5_extract,Huybrechts K.,Humphries L.,1
+Network 5_extract,Huybrechts K.,Noppert D.,1
+Network 5_extract,Huybrechts K.,Nentjes G.,1
+Network 5_extract,Huybrechts K.,Larsson D.,1
+Network 5_extract,Huybrechts K.,Richardson J.,1
+Network 5_extract,Gurney D.,Evans R.,1
+Network 5_extract,Gurney D.,Dobey C.,1
+Network 5_extract,Gurney D.,O'Connor W.,1
+Network 5_extract,Gurney D.,Durrant G.,1
+Network 5_extract,Gurney D.,Pipe J.,1
+Network 5_extract,Gurney D.,Lewis J.,1
+Network 5_extract,Gurney D.,Smith R.,1
+Network 5_extract,Gurney D.,Henderson J.,1
+Network 5_extract,Gurney D.,Huybrechts R.,1
+Network 5_extract,Whitlock S.,Kleermaker M.,1
+Network 5_extract,Whitlock S.,Labanauskas D.,1
+Network 5_extract,Whitlock S.,King M.,1
+Network 5_extract,Whitlock S.,Ward H.,1
+Network 5_extract,Whitlock S.,Joyce R.,1
+Network 5_extract,Whitlock S.,Webster D.,1
+Network 5_extract,Whitlock S.,Schindler M.,1
+Network 5_extract,Evetts T.,Williams J.,1
+Network 5_extract,Evetts T.,Sherrock F.,1
+Network 5_extract,Humphries L.,Anderson G.,1
+Network 5_extract,Humphries L.,Rodriguez R.-J.,1
+Network 5_extract,Humphries L.,Lim P.,1
+Network 5_extract,Humphries L.,Wright P.,1
+Network 5_extract,Humphries L.,Petersen D.,1
+Network 5_extract,Humphries L.,Smith M.,1
+Network 5_extract,Humphries L.,Hunt A.,1
+Network 5_extract,Rodriguez R.-J.,Kenny N.,1
+Network 5_extract,Rodriguez R.-J.,Malicdem N.,1
+Network 5_extract,Petersen D.,Smith R.,1
+Network 5_extract,Petersen D.,Anderson G.,1
+Network 5_extract,Petersen D.,Lennon S.,1
+Network 5_extract,Petersen D.,West S.,1
+Network 5_extract,Hunt A.,Krcmar B.,1
+Network 5_extract,Hunt A.,Ashton L.,1
+Network 5_extract,Joyce R.,Benecky R.,1
+Network 5_extract,Joyce R.,Sedlacek K.,1
+Network 5_extract,Joyce R.,Dekker J.,1
+Network 5_extract,Joyce R.,Wade J.,1
+Network 5_extract,Joyce R.,Norris A.,1
+Network 5_extract,Joyce R.,Dobromyslova A.,1
+Network 5_extract,Hopp M.,Mathers G.,1
+Network 5_extract,Hopp M.,van de Pas B.,1
+Network 5_extract,Hopp M.,Noppert D.,1
+Network 5_extract,Dekker J.,Ashton L.,1
+Network 5_extract,Dekker J.,van den Bergh D.,1
+Network 5_extract,Noppert D.,Heaver J.,1
+Network 5_extract,Noppert D.,Carolissen C.,1
+Network 5_extract,Noppert D.,Rydz C.,1
+Network 5_extract,Noppert D.,Lam R.,1
+Network 5_extract,Borland W.,Brooks B.,1
+Network 5_extract,van Barneveld R.,Ilagan L.,1
+Network 5_extract,van Barneveld R.,Young D.,1
+Network 5_extract,van Barneveld R.,Labanauskas D.,1
+Network 5_extract,van Barneveld R.,Anderson K.,1
+Network 5_extract,van Barneveld R.,North R.,1
+Network 5_extract,Reyes C.,Ilagan L.,1
+Network 5_extract,Reyes C.,Rodriguez R.-J.,1
+Network 5_extract,Reyes C.,Alcinas T.,1
+Network 5_extract,Taylor P.,Anderson G.,1
+Network 5_extract,Taylor P.,Brown K.,1
+Network 5_extract,Taylor P.,Pipe J.,1
+Network 5_extract,Taylor P.,Dobey C.,1
+Network 5_extract,Rodriguez Ru. J.,Robb B.,1
+Network 5_extract,Soutar A.,Rydz C.,1
+Network 5_extract,Soutar A.,Portela D.,1
+Network 5_extract,Smith R.,King M.,1
+Network 5_extract,Smith R.,van Duijvenbode D.,1
+Network 5_extract,Smith R.,Smith J.,1
+Network 5_extract,Smith R.,Evans D.,1
+Network 5_extract,Smith R.,Teehan C.,1
+Network 5_extract,Smith R.,Lim P.,1
+Network 5_extract,Clayton J.,Smith M.,1
+Network 5_extract,Clayton J.,Clemens G.,1
+Network 5_extract,Clayton J.,Barry K.,1
+Network 5_extract,Clayton J.,Henderson J.,1
+Network 5_extract,Clayton J.,Bunting S.,1
+Network 5_extract,Clayton J.,Dekker J.,1
+Network 5_extract,Clayton J.,van den Bergh D.,1
+Network 5_extract,Clayton J.,Lewis J.,1
+Network 5_extract,Barry K.,Lam R.,1
+Network 5_extract,van den Bergh D.,Hempel F.,1
+Network 5_extract,van den Bergh D.,Wattimena J.,1
+Network 5_extract,van den Bergh D.,Lim P.,1
+Network 5_extract,van den Bergh D.,Lewis A.,1
+Network 5_extract,van den Bergh D.,Payne J.,1
+Network 5_extract,van den Bergh D.,Humphries L.,1
+Network 5_extract,van den Bergh D.,Puleo C.,1
+Network 5_extract,van den Bergh D.,Cross R.,1
+Network 5_extract,Durrant G.,O'Connor W.,1
+Network 5_extract,Durrant G.,Baggish D.,1
+Network 5_extract,Durrant G.,Portela D.,1
+Network 5_extract,Durrant G.,Price G.,1
+Network 5_extract,Durrant G.,Dobey C.,1
+Network 5_extract,Durrant G.,Heta D.,1
+Network 5_extract,Labanauskas D.,de Decker M.,1
+Network 5_extract,Labanauskas D.,Liu C. A.,1
+Network 5_extract,Labanauskas D.,Hopp M.,1
+Network 5_extract,Labanauskas D.,Edgar M.,1
+Network 5_extract,Murnan J.,Lim P.,1
+Network 5_extract,Waites S.,Campbell M.,1
+Network 5_extract,Ratajski K.,Lennon S.,1
+Network 5_extract,Ratajski K.,Bunting S.,1
+Network 5_extract,Ratajski K.,Whitlock S.,1
+Network 5_extract,Ratajski K.,Joyce R.,1
+Network 5_extract,Ratajski K.,Lerchbacher Z.,1
+Network 5_extract,Ratajski K.,Asada S.,1
+Network 5_extract,Anderson K.,Zong X. C.,1
+Network 5_extract,Anderson K.,Malicdem N.,1
+Network 5_extract,Anderson K.,Jacques P.,1
+Network 5_extract,de Decker M.,Foulkes E.,1
+Network 5_extract,Payne J.,Portela D.,1
+Network 5_extract,Payne J.,Smith J.,1
+Network 5_extract,de Sousa J.,Soutar A.,1
+Network 5_extract,de Sousa J.,Lowe J.,1
+Network 5_extract,de Sousa J.,King M.,1
+Network 5_extract,de Sousa J.,Smith R.,1
+Network 5_extract,de Sousa J.,Heta D.,1
+Network 5_extract,van Gerwen M.,Dobey C.,1
+Network 5_extract,van Gerwen M.,Barstow C.,1
+Network 5_extract,van Gerwen M.,Chisnall D.,1
+Network 5_extract,van Gerwen M.,Cullen J.,1
+Network 5_extract,van Gerwen M.,Evans R.,1
+Network 5_extract,van Gerwen M.,Murray R.,1
+Network 5_extract,van Gerwen M.,Wright P.,1
+Network 5_extract,van Gerwen M.,Aspinall N.,1
+Network 5_extract,van Gerwen M.,Labanauskas D.,1
+Network 5_extract,van Gerwen M.,Bunting S.,1
+Network 5_extract,van Gerwen M.,Klaasen J.,1
+Network 5_extract,van Gerwen M.,Smith M.,1
+Network 5_extract,van Gerwen M.,Anderson G.,1
+Network 5_extract,van Gerwen M.,Joyce R.,1
+Network 5_extract,van Gerwen M.,Lewis A.,1
+Network 5_extract,van Gerwen M.,Hopp M.,1
+Network 5_extract,van Gerwen M.,Tabern A.,1
+Network 5_extract,van Gerwen M.,Cross R.,1
+Network 5_extract,van Gerwen M.,van Barneveld R.,1
+Network 5_extract,van Gerwen M.,Price G.,1
+Network 5_extract,van Gerwen M.,Wilson J.,1
+Network 5_extract,van Gerwen M.,Kist C.,1
+Network 5_extract,Barstow C.,Norman J.,1
+Network 5_extract,Cullen J.,Kleermaker M.,1
+Network 5_extract,Cullen J.,Williams J.,1
+Network 5_extract,Cullen J.,Clayton J.,1
+Network 5_extract,Cullen J.,Jones W.,1
+Network 5_extract,Cullen J.,Kurz N.,1
+Network 5_extract,Cullen J.,Dolan B.,1
+Network 5_extract,Cullen J.,Wattimena J.,1
+Network 5_extract,Evans R.,Kumar N.,1
+Network 5_extract,Evans R.,Mansell M.,1
+Network 5_extract,Evans R.,McGeeney M.,1
+Network 5_extract,Evans R.,Rodriguez R.-J.,1
+Network 5_extract,Murray R.,Ilagan L.,1
+Network 5_extract,Klaasen J.,Burness K.,1
+Network 5_extract,Klaasen J.,Brown K.,1
+Network 5_extract,Klaasen J.,Dekker J.,1
+Network 5_extract,Tabern A.,Smith R.,1
+Network 5_extract,Wilson J.,Kurz N.,1
+Network 5_extract,Wilson J.,O'Connor W.,1
+Network 5_extract,Wilson J.,Ratajski K.,1
+Network 5_extract,Pipe J.,Pratnemer B.,1
+Network 5_extract,Pipe J.,Smith B.,1
+Network 5_extract,Jones W.,Teehan C.,1
+Network 5_extract,Jones W.,Petersen D.,1
+Network 5_extract,Kurz N.,Humphries L.,1
+Network 5_extract,Heaver J.,Mathers G.,1
+Network 5_extract,Williams L.,Shibata T.,1
+Network 5_extract,van de Pas B.,Dolan B.,1
+Network 5_extract,van de Pas B.,Long J.,1
+Network 5_extract,van de Pas B.,West S.,1
+Network 5_extract,Richardson J.,Suzuki M.,1
+Network 5_extract,Hempel F.,Smith R.,1
+Network 5_extract,Hempel F.,Schindler M.,1
+Network 5_extract,Schindler M.,Harris C.,1
+Network 5_extract,North R.,Marijanovic R.,1
+Network 5_extract,Edgar M.,Labanauskas D.,1
+Network 5_extract,Sherrock F.,Dobey C.,1
+Network 5_extract,Thornton R.,Larsson D.,1
+Network 5_extract,Thornton R.,Dolan B.,1
+Network 5_extract,Ward H.,Razma M.,1
+Network 5_extract,Webster D.,Yamada Y.,1
+Network 5_extract,Webster D.,Van der Voort V.,1
+Network 5_extract,Webster D.,Petersen D.,1
+Network 5_extract,Norris A.,Lennon S.,1
+Network 5_extract,Norris A.,Richardson J.,1
+Network 5_extract,Norris A.,Viljanen K.,1
+Network 5_extract,Boulton A.,Hedman D.,1
+Network 5_extract,Boulton A.,Baggish D.,1
+Network 5_extract,Hughes J.,Smith R.,1
+Network 5_extract,Hughes J.,Hunt A.,1
+Network 5_extract,Hughes J.,Lerchbacher Z.,1
+Network 5_extract,Barnard M.,de Sousa J.,1
+Network 5_extract,Munch K.,Alcinas T.,1
+Network 5_extract,Mansell M.,Puha H.,1
+Network 5_extract,Mansell M.,Asada S.,1
+Network 5_extract,Mansell M.,Long J.,1
+Network 5_extract,McGeeney M.,Campbell M.,1
+Network 5_extract,Mitchell S.,Landman C.,1
+Network 5_extract,Telnekes D.,Kenny N.,1
+Network 5_extract,Hamilton A.,Kurz N.,1
+Network 5_extract,Zong X. C.,Smith B.,1
+Network 5_extract,Monk A.,Justicia J.,1
+Network 5_extract,de Graaf J.,Malicdem N.,1
+Network 5_extract,Stevenson S.,Evetts T.,1
+Network 5_extract,Nicholson P.,Burness K.,1
+Network 5_extract,Oreshkin A.,Munch K.,1
+Network 5_extract,Webster M.,Lim P.,1
+Network 5_extract,Leung K. F.,Lim P.,1
+Network 5_extract,Bruguier W.,Harris C.,1
+Network 5_extract,Neyens K.,Lewis J.,1
+Network 5_extract,Ljubic A.,Dolan B.,1
+Network 5_extract,player1_name,player2_name,0

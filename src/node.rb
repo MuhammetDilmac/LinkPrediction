@@ -2,26 +2,31 @@
 
 # Node Class
 class Node
-  attr_reader :title, :meta, :neighbors, :edges
+  attr_accessor :title, :neighbors, :edges
 
-  def initialize(title:, meta:, options: { directed: false, weighted: false })
-    @title   = title
-    @meta    = meta
-    @options = options
+  def initialize(title:)
+    @title = title
 
     @neighbors = []
     @edges     = []
   end
 
+  # @return [Edge, NilClass]
   def neighbor?(node)
-    neighbor = @edges.find do |edge|
-      if @options[:directed]
-        edge.from == self && edge.to == node
-      else
-        (edge.from == self && edge.to == node) || (edge.from == node && edge.to == self)
-      end
+    @edges.find { |edge| (edge.from == self && edge.to == node) || (edge.from == node && edge.to == self) }
+  end
+
+  # @return [Edge]
+  def add_neighbor(node)
+    edge = neighbor?(node)
+
+    if edge.nil?
+      edge = Edge.new(from: self, to: node)
+      @edges.push(edge)
+    else
+      edge.increment_weight!
     end
 
-    neighbor != nil
+    edge
   end
 end

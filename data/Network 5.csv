@@ -1,0 +1,452 @@
+tournament_year,stage,player1_name,player2_name
+2022,FINAL,Smith M.,Wright P.
+2022,SEMI-FINALS,Wright P.,Anderson G.
+2022,SEMI-FINALS,Smith M.,Wade J.
+2022,QUARTER-FINALS,Price G.,Smith M.
+2022,QUARTER-FINALS,Wright P.,Rydz C.
+2022,QUARTER-FINALS,Humphries L.,Anderson G.
+2022,QUARTER-FINALS,Wade J.,King M.
+2022,1/8-FINALS,Wright P.,Searle R.
+2022,1/8-FINALS,Anderson G.,Cross R.
+2022,1/8-FINALS,Wade J.,Kleermaker M.
+2022,1/8-FINALS,Dobey C.,Humphries L.
+2022,1/8-FINALS,Soutar A.,Rydz C.
+2022,1/8-FINALS,Smith R.,King M.
+2022,1/8-FINALS,Clayton J.,Smith M.
+2022,1/8-FINALS,Price G.,van Duijvenbode D.
+2022,1/16-FINALS,Anderson G.,White I.
+2022,1/16-FINALS,Aspinall N.,Rydz C.
+2022,1/16-FINALS,Chisnall D.,Humphries L.
+2022,1/16-FINALS,de Sousa J.,Soutar A.
+2022,1/16-FINALS,van Gerwen M.,Dobey C.
+2022,1/16-FINALS,Wright P.,Heta D.
+2022,1/16-FINALS,Cross R.,Gurney D.
+2022,1/16-FINALS,Cullen J.,Kleermaker M.
+2022,1/16-FINALS,Searle R.,Noppert D.
+2022,1/16-FINALS,Lennon S.,King M.
+2022,1/16-FINALS,Clayton J.,Clemens G.
+2022,1/16-FINALS,Price G.,Huybrechts K.
+2022,1/16-FINALS,Wade J.,Van der Voort V.
+2022,1/16-FINALS,Hempel F.,Smith R.
+2022,1/16-FINALS,Smith M.,O'Connor W.
+2022,1/16-FINALS,Smith R.,van Duijvenbode D.
+2022,1/32-FINALS,Dobey C.,Rodriguez Ru. J.
+2022,1/32-FINALS,Cross R.,van Barneveld R.
+2022,1/32-FINALS,Clemens G.,Williams L.
+2022,1/32-FINALS,Noppert D.,Heaver J.
+2022,1/32-FINALS,de Sousa J.,Lowe J.
+2022,1/32-FINALS,Suljovic M.,Soutar A.
+2022,1/32-FINALS,Dolan B.,Rydz C.
+2022,1/32-FINALS,Heta D.,Woodhouse L.
+2022,1/32-FINALS,Whitlock S.,Kleermaker M.
+2022,1/32-FINALS,Huybrechts K.,Beaton S.
+2022,1/32-FINALS,van Duijvenbode D.,Koltsov B.
+2022,1/32-FINALS,Aspinall N.,Murnan J.
+2022,1/32-FINALS,Cullen J.,Williams J.
+2022,1/32-FINALS,Humphries L.,Rodriguez R.-J.
+2022,1/32-FINALS,Durrant G.,O'Connor W.
+2022,1/32-FINALS,Searle R.,Borland W.
+2022,1/32-FINALS,Petersen D.,Smith R.
+2022,1/32-FINALS,van den Bergh D.,Hempel F.
+2022,1/32-FINALS,Smith M.,Meulenkamp R.
+2022,1/32-FINALS,Van der Voort V.,Hunt A.
+2022,1/32-FINALS,Chisnall D.,de Decker M.
+2022,1/32-FINALS,King M.,Joyce R.
+2022,1/64-FINALS,Lowe J.,Larsson D.
+2022,1/64-FINALS,Williams L.,Shibata T.
+2022,1/32-FINALS,Wade J.,Kuivenhoven M.
+2022,1/64-FINALS,van Barneveld R.,Ilagan L.
+2022,1/64-FINALS,Rodriguez Ru. J.,Robb B.
+2022,1/64-FINALS,Woodhouse L.,Wilson J.
+2022,1/32-FINALS,Clayton J.,Barry K.
+2022,1/64-FINALS,Beaton S.,Sherrock F.
+2022,1/64-FINALS,Hempel F.,Schindler M.
+2022,1/64-FINALS,Kleermaker M.,Michael J.
+2022,1/32-FINALS,Bunting S.,Smith R.
+2022,1/64-FINALS,Soutar A.,Portela D.
+2022,1/64-FINALS,Heaver J.,Mathers G.
+2022,1/64-FINALS,Kuivenhoven M.,Smith K.
+2022,1/32-FINALS,van Gerwen M.,Barstow C.
+2022,1/64-FINALS,Rodriguez R.-J.,Kenny N.
+2022,1/64-FINALS,Evetts T.,Williams J.
+2022,1/64-FINALS,Hunt A.,Krcmar B.
+2022,1/32-FINALS,White I.,Landman C.
+2022,1/64-FINALS,Labanauskas D.,de Decker M.
+2022,1/64-FINALS,Rydz C.,Yamada Y.
+2022,1/64-FINALS,Hughes J.,Smith R.
+2022,1/32-FINALS,Wright P.,Meikle R.
+2022,1/64-FINALS,Smith R.,Smith J.
+2022,1/64-FINALS,Borland W.,Brooks B.
+2022,1/64-FINALS,Murnan J.,Lim P.
+2022,1/32-FINALS,Ratajski K.,Lennon S.
+2022,1/64-FINALS,Wattimena J.,Koltsov B.
+2022,1/64-FINALS,Barry K.,Lam R.
+2022,1/64-FINALS,Joyce R.,Benecky R.
+2022,1/32-FINALS,Anderson G.,Lewis A.
+2022,1/64-FINALS,Meulenkamp R.,Ashton L.
+2022,1/64-FINALS,Meikle R.,Schmutzler F.
+2022,1/64-FINALS,O'Connor W.,Lauby D. Jr.
+2022,1/32-FINALS,Gurney D.,Evans R.
+2022,1/64-FINALS,Barstow C.,Norman J.
+2022,1/64-FINALS,Mitchell S.,Landman C.
+2022,1/64-FINALS,Lennon S.,Razma M.
+2022,1/32-FINALS,Price G.,Edhouse R.
+2022,1/64-FINALS,Lewis A.,Campbell M.
+2022,1/64-FINALS,Evans R.,Kumar N.
+2022,1/64-FINALS,Edhouse R.,Hudson P.
+2021,FINAL,Anderson G.,Price G.
+2021,SEMI-FINALS,Chisnall D.,Anderson G.
+2021,SEMI-FINALS,Bunting S.,Price G.
+2021,QUARTER-FINALS,van Gerwen M.,Chisnall D.
+2021,QUARTER-FINALS,Price G.,Gurney D.
+2021,QUARTER-FINALS,Anderson G.,van Duijvenbode D.
+2021,QUARTER-FINALS,Ratajski K.,Bunting S.
+2021,1/8-FINALS,Chisnall D.,van den Bergh D.
+2021,1/8-FINALS,Price G.,King M.
+2021,1/8-FINALS,van Duijvenbode D.,Durrant G.
+2021,1/8-FINALS,Petersen D.,Anderson G.
+2021,1/8-FINALS,Bunting S.,Searle R.
+2021,1/8-FINALS,Van der Voort V.,Gurney D.
+2021,1/8-FINALS,van Gerwen M.,Cullen J.
+2021,1/8-FINALS,Clemens G.,Ratajski K.
+2021,1/16-FINALS,Chisnall D.,Noppert D.
+2021,1/16-FINALS,Lowe J.,Petersen D.
+2021,1/16-FINALS,Gurney D.,Dobey C.
+2021,1/16-FINALS,Wade J.,Bunting S.
+2021,1/16-FINALS,Durrant G.,Baggish D.
+2021,1/16-FINALS,Price G.,Dolan B.
+2021,1/16-FINALS,Anderson G.,Suljovic M.
+2021,1/16-FINALS,Aspinall N.,Van der Voort V.
+2021,1/16-FINALS,van Duijvenbode D.,Hunt A.
+2021,1/16-FINALS,de Sousa J.,King M.
+2021,1/16-FINALS,van Gerwen M.,Evans R.
+2021,1/16-FINALS,Wright P.,Clemens G.
+2021,1/16-FINALS,Cullen J.,Clayton J.
+2021,1/16-FINALS,van den Bergh D.,Wattimena J.
+2021,1/16-FINALS,Huybrechts K.,Searle R.
+2021,1/16-FINALS,Ratajski K.,Whitlock S.
+2021,1/32-FINALS,Smith M.,Lowe J.
+2021,1/32-FINALS,Aspinall N.,Waites S.
+2021,1/32-FINALS,Wattimena J.,Kenny N.
+2021,1/32-FINALS,Chisnall D.,Brown K.
+2021,1/32-FINALS,Suljovic M.,Edgar M.
+2021,1/32-FINALS,Bunting S.,Boulton A.
+2021,1/32-FINALS,Anderson G.,Razma M.
+2021,1/32-FINALS,Evans R.,Mansell M.
+2021,1/32-FINALS,van den Bergh D.,Lim P.
+2021,1/32-FINALS,Cross R.,van Duijvenbode D.
+2021,1/32-FINALS,Petersen D.,Lennon S.
+2021,1/32-FINALS,Noppert D.,Carolissen C.
+2021,1/32-FINALS,Lewis A.,Baggish D.
+2021,1/32-FINALS,Whitlock S.,Labanauskas D.
+2021,1/32-FINALS,Cullen J.,Jones W.
+2021,1/32-FINALS,Dolan B.,Foulkes E.
+2021,1/32-FINALS,Clemens G.,Kurz N.
+2021,1/32-FINALS,Price G.,Lewis J.
+2021,1/32-FINALS,White I.,Huybrechts K.
+2021,1/32-FINALS,Ratajski K.,Joyce R.
+2021,1/32-FINALS,Clayton J.,Henderson J.
+2021,1/32-FINALS,de Zwaan J.,Searle R.
+2021,1/64-FINALS,Brown K.,Meikle R.
+2021,1/64-FINALS,Kleermaker M.,Carolissen C.
+2021,1/32-FINALS,Van der Voort V.,Meulenkamp R.
+2021,1/64-FINALS,Kuivenhoven M.,Edgar M.
+2021,1/64-FINALS,Lowe J.,Gorbunov D.
+2021,1/64-FINALS,Telnekes D.,Kenny N.
+2021,1/32-FINALS,van Gerwen M.,Murray R.
+2021,1/64-FINALS,Heta D.,Baggish D.
+2021,1/64-FINALS,Boulton A.,Hedman D.
+2021,1/64-FINALS,Hamilton A.,Kurz N.
+2021,1/32-FINALS,King M.,Hopp M.
+2021,1/64-FINALS,Huybrechts K.,Zhuang D.
+2021,1/64-FINALS,Waites S.,Campbell M.
+2021,1/64-FINALS,Lennon S.,Larsson D.
+2021,1/32-FINALS,Wade J.,Rydz C.
+2021,1/64-FINALS,Humphries L.,Lim P.
+2021,1/64-FINALS,Henderson J.,Kantele M.
+2021,1/64-FINALS,van Duijvenbode D.,Brooks B.
+2021,1/32-FINALS,Hughes J.,Hunt A.
+2021,1/64-FINALS,Jones W.,Teehan C.
+2021,1/64-FINALS,Labanauskas D.,Liu C. A.
+2021,1/64-FINALS,Mansell M.,Puha H.
+2021,1/32-FINALS,de Sousa J.,Smith R.
+2021,1/64-FINALS,Searle R.,Lauby D. Jr.
+2021,1/64-FINALS,Meulenkamp R.,Krcmar B.
+2021,1/64-FINALS,Woodhouse L.,Lewis J.
+2021,1/32-FINALS,Gurney D.,O'Connor W.
+2021,1/64-FINALS,Murray R.,Ilagan L.
+2021,1/64-FINALS,de Decker M.,Foulkes E.
+2021,1/64-FINALS,Razma M.,Suzuki T.
+2021,1/32-FINALS,Durrant G.,Portela D.
+2021,1/64-FINALS,Hunt A.,Ashton L.
+2021,1/64-FINALS,Rydz C.,Bailey J.
+2021,1/64-FINALS,Hopp M.,Mathers G.
+2021,1/32-FINALS,Dobey C.,Smith J.
+2021,1/64-FINALS,O'Connor W.,Zonneveld N.
+2021,1/64-FINALS,Smith R.,Evans D.
+2021,1/64-FINALS,Joyce R.,Sedlacek K.
+2021,1/32-FINALS,Wright P.,West S.
+2021,1/64-FINALS,Smith J.,Barry K.
+2021,1/64-FINALS,Beaton S.,Portela D.
+2021,1/64-FINALS,West S.,Gilitwala A.
+2020,FINAL,van Gerwen M.,Wright P.
+2020,SEMI-FINALS,van Gerwen M.,Aspinall N.
+2020,SEMI-FINALS,Wright P.,Price G.
+2020,QUARTER-FINALS,Durrant G.,Price G.
+2020,QUARTER-FINALS,van Gerwen M.,Labanauskas D.
+2020,QUARTER-FINALS,Humphries L.,Wright P.
+2020,QUARTER-FINALS,Aspinall N.,van den Bergh D.
+2020,1/8-FINALS,Price G.,Whitlock S.
+2020,1/8-FINALS,Durrant G.,Dobey C.
+2020,1/8-FINALS,Wright P.,de Zwaan J.
+2020,1/8-FINALS,van den Bergh D.,Lewis A.
+2020,1/8-FINALS,Huybrechts K.,Humphries L.
+2020,1/8-FINALS,Beaton S.,Labanauskas D.
+2020,1/8-FINALS,van Gerwen M.,Bunting S.
+2020,1/8-FINALS,Anderson G.,Aspinall N.
+2020,1/16-FINALS,Price G.,Henderson J.
+2020,1/16-FINALS,Sherrock F.,Dobey C.
+2020,1/16-FINALS,Gurney D.,Durrant G.
+2020,1/16-FINALS,Whitlock S.,King M.
+2020,1/16-FINALS,Wright P.,Asada S.
+2020,1/16-FINALS,Anderson G.,Searle R.
+2020,1/16-FINALS,Chisnall D.,de Zwaan J.
+2020,1/16-FINALS,Woodhouse L.,van den Bergh D.
+2020,1/16-FINALS,Lewis A.,Webster D.
+2020,1/16-FINALS,Kurz N.,Humphries L.
+2020,1/16-FINALS,van Gerwen M.,Evans R.
+2020,1/16-FINALS,Huybrechts K.,Noppert D.
+2020,1/16-FINALS,Wade J.,Beaton S.
+2020,1/16-FINALS,Aspinall N.,Ratajski K.
+2020,1/16-FINALS,Labanauskas D.,Hopp M.
+2020,1/16-FINALS,Clayton J.,Bunting S.
+2020,1/32-FINALS,van den Bergh D.,Payne J.
+2020,1/32-FINALS,Suljovic M.,Sherrock F.
+2020,1/32-FINALS,Durrant G.,Heta D.
+2020,1/32-FINALS,Gurney D.,Pipe J.
+2020,1/32-FINALS,Lewis A.,Reyes C.
+2020,1/32-FINALS,West S.,Searle R.
+2020,1/32-FINALS,Whitlock S.,Ward H.
+2020,1/32-FINALS,Brown K.,Asada S.
+2020,1/32-FINALS,Wright P.,Malicdem N.
+2020,1/32-FINALS,Hopp M.,van de Pas B.
+2020,1/32-FINALS,Cullen J.,Kurz N.
+2020,1/32-FINALS,Aspinall N.,Baggish D.
+2020,1/32-FINALS,Evans R.,McGeeney M.
+2020,1/32-FINALS,Clayton J.,Dekker J.
+2020,1/32-FINALS,King M.,Teehan C.
+2020,1/32-FINALS,Webster D.,Yamada Y.
+2020,1/32-FINALS,Price G.,O'Connor W.
+2020,1/32-FINALS,Chisnall D.,Van der Voort V.
+2020,1/32-FINALS,Noppert D.,Rydz C.
+2020,1/32-FINALS,Dobey C.,Meulenkamp R.
+2020,1/32-FINALS,Beaton S.,Anderson K.
+2020,1/32-FINALS,Henderson J.,Richardson J.
+2020,PRELIMINARY ROUND,Joyce R.,Dekker J.
+2020,PRELIMINARY ROUND,Pipe J.,Pratnemer B.
+2020,1/32-FINALS,Wade J.,Edhouse R.
+2020,PRELIMINARY ROUND,Clemens G.,van de Pas B.
+2020,PRELIMINARY ROUND,Payne J.,Portela D.
+2020,PRELIMINARY ROUND,Wilson J.,Kurz N.
+2020,1/32-FINALS,Bunting S.,Justicia J.
+2020,PRELIMINARY ROUND,Ward H.,Razma M.
+2020,PRELIMINARY ROUND,Mansell M.,Asada S.
+2020,PRELIMINARY ROUND,Meulenkamp R.,Robb B.
+2020,1/32-FINALS,de Zwaan J.,Young D.
+2020,PRELIMINARY ROUND,Evetts T.,Sherrock F.
+2020,PRELIMINARY ROUND,de Sousa J.,Heta D.
+2020,PRELIMINARY ROUND,Edhouse R.,Koltsov B.
+2020,1/32-FINALS,Ratajski K.,Lerchbacher Z.
+2020,PRELIMINARY ROUND,Rodriguez R.-J.,Malicdem N.
+2020,PRELIMINARY ROUND,Reyes C.,Ilagan L.
+2020,PRELIMINARY ROUND,Searle R.,King R.
+2020,1/32-FINALS,Anderson G.,Dolan B.
+2020,PRELIMINARY ROUND,Van der Voort V.,Barry K.
+2020,PRELIMINARY ROUND,O'Connor W.,Kantele M.
+2020,PRELIMINARY ROUND,Lennon S.,Rydz C.
+2020,1/32-FINALS,Smith M.,Woodhouse L.
+2020,PRELIMINARY ROUND,Richardson J.,Suzuki M.
+2020,PRELIMINARY ROUND,Boulton A.,Baggish D.
+2020,PRELIMINARY ROUND,Monk A.,Justicia J.
+2020,1/32-FINALS,White I.,Labanauskas D.
+2020,PRELIMINARY ROUND,Dolan B.,Kumar N.
+2020,PRELIMINARY ROUND,Smith R.,Teehan C.
+2020,PRELIMINARY ROUND,Anderson K.,Zong X. C.
+2020,1/32-FINALS,Cross R.,Huybrechts K.
+2020,PRELIMINARY ROUND,van Barneveld R.,Young D.
+2020,PRELIMINARY ROUND,Hughes J.,Lerchbacher Z.
+2020,PRELIMINARY ROUND,McGeeney M.,Campbell M.
+2020,1/32-FINALS,Wattimena J.,Humphries L.
+2020,PRELIMINARY ROUND,Woodhouse L.,Lim P.
+2020,PRELIMINARY ROUND,Meikle R.,Yamada Y.
+2020,PRELIMINARY ROUND,Labanauskas D.,Edgar M.
+2020,1/32-FINALS,van Gerwen M.,Klaasen J.
+2020,PRELIMINARY ROUND,Humphries L.,Petersen D.
+2020,PRELIMINARY ROUND,Huybrechts K.,Nentjes G.
+2020,PRELIMINARY ROUND,Klaasen J.,Burness K.
+2019,FINAL,van Gerwen M.,Smith M.
+2019,SEMI-FINALS,van Gerwen M.,Anderson G.
+2019,SEMI-FINALS,Smith M.,Aspinall N.
+2019,QUARTER-FINALS,van Gerwen M.,Joyce R.
+2019,QUARTER-FINALS,Humphries L.,Smith M.
+2019,QUARTER-FINALS,Anderson G.,Chisnall D.
+2019,QUARTER-FINALS,Aspinall N.,Dolan B.
+2019,1/8-FINALS,Cross R.,Humphries L.
+2019,1/8-FINALS,Lewis J.,Chisnall D.
+2019,1/8-FINALS,Searle R.,Smith M.
+2019,1/8-FINALS,Joyce R.,Wade J.
+2019,1/8-FINALS,van de Pas B.,Dolan B.
+2019,1/8-FINALS,Aspinall N.,Petersen D.
+2019,1/8-FINALS,van Gerwen M.,Lewis A.
+2019,1/8-FINALS,Anderson G.,Dobey C.
+2019,1/16-FINALS,Alcinas T.,van de Pas B.
+2019,1/16-FINALS,Smith M.,Henderson J.
+2019,1/16-FINALS,van den Bergh D.,Humphries L.
+2019,1/16-FINALS,Petersen D.,West S.
+2019,1/16-FINALS,Cross R.,Reyes C.
+2019,1/16-FINALS,Aspinall N.,Anderson K.
+2019,1/16-FINALS,Lewis A.,Labanauskas D.
+2019,1/16-FINALS,Wade J.,Brown K.
+2019,1/16-FINALS,Dolan B.,King M.
+2019,1/16-FINALS,Van der Voort V.,Dobey C.
+2019,1/16-FINALS,van Gerwen M.,Hopp M.
+2019,1/16-FINALS,Anderson G.,Wattimena J.
+2019,1/16-FINALS,Searle R.,O'Connor W.
+2019,1/16-FINALS,Gurney D.,Lewis J.
+2019,1/16-FINALS,Chisnall D.,Huybrechts K.
+2019,1/16-FINALS,Joyce R.,Norris A.
+2019,1/32-FINALS,Clayton J.,van den Bergh D.
+2019,1/32-FINALS,Price G.,Aspinall N.
+2019,1/32-FINALS,Klaasen J.,Brown K.
+2019,1/32-FINALS,White I.,Petersen D.
+2019,1/32-FINALS,Anderson K.,Malicdem N.
+2019,1/32-FINALS,West S.,North R.
+2019,1/32-FINALS,Henderson J.,Clemens G.
+2019,1/32-FINALS,van de Pas B.,Long J.
+2019,1/32-FINALS,Suljovic M.,Searle R.
+2019,1/32-FINALS,Lewis A.,Evetts T.
+2019,1/32-FINALS,King M.,Dekker J.
+2019,1/32-FINALS,Reyes C.,Rodriguez R.-J.
+2019,1/32-FINALS,Beaton S.,Dobey C.
+2019,1/32-FINALS,Bunting S.,Humphries L.
+2019,1/32-FINALS,Norris A.,Lennon S.
+2019,1/32-FINALS,Wattimena J.,Barnard M.
+2019,1/32-FINALS,Wade J.,Asada S.
+2019,1/32-FINALS,Smith M.,Meulenkamp R.
+2019,1/32-FINALS,Whitlock S.,Joyce R.
+2019,1/32-FINALS,Wilson J.,O'Connor W.
+2019,1/32-FINALS,Huybrechts K.,Larsson D.
+2019,1/32-FINALS,Cullen J.,Dolan B.
+2019,PRELIMINARY ROUND,de Graaf J.,Malicdem N.
+2019,PRELIMINARY ROUND,Aspinall N.,Nentjes G.
+2019,1/32-FINALS,Gurney D.,Smith R.
+2019,PRELIMINARY ROUND,van den Bergh D.,Puleo C.
+2019,PRELIMINARY ROUND,Meulenkamp R.,Portela D.
+2019,PRELIMINARY ROUND,Lennon S.,Bailey J.
+2019,1/32-FINALS,Webster D.,Van der Voort V.
+2019,PRELIMINARY ROUND,Ratajski K.,Asada S.
+2019,PRELIMINARY ROUND,Evans R.,Rodriguez R.-J.
+2019,PRELIMINARY ROUND,Thornton R.,Larsson D.
+2019,1/32-FINALS,van Barneveld R.,Labanauskas D.
+2019,PRELIMINARY ROUND,Joyce R.,Dobromyslova A.
+2019,PRELIMINARY ROUND,Jones W.,Petersen D.
+2019,PRELIMINARY ROUND,Van der Voort V.,Ilagan L.
+2019,1/32-FINALS,Wright P.,Alcinas T.
+2019,PRELIMINARY ROUND,Smith R.,Lim P.
+2019,PRELIMINARY ROUND,Edgar M.,Labanauskas D.
+2019,PRELIMINARY ROUND,Humphries L.,Hunt A.
+2019,1/32-FINALS,Chisnall D.,Payne J.
+2019,PRELIMINARY ROUND,Dolan B.,Liu Y.
+2019,PRELIMINARY ROUND,O'Connor W.,Meeuwisse Y.
+2019,PRELIMINARY ROUND,Clemens G.,Kirk A.
+2019,1/32-FINALS,van Gerwen M.,Tabern A.
+2019,PRELIMINARY ROUND,Brown K.,Sedlacek K.
+2019,PRELIMINARY ROUND,Searle R.,Burton S.
+2019,PRELIMINARY ROUND,Alcinas T.,Ross C.
+2019,1/32-FINALS,Hopp M.,Noppert D.
+2019,PRELIMINARY ROUND,Payne J.,Smith J.
+2019,PRELIMINARY ROUND,Mansell M.,Long J.
+2019,PRELIMINARY ROUND,North R.,Marijanovic R.
+2019,1/32-FINALS,Anderson G.,Burness K.
+2019,PRELIMINARY ROUND,Dobey C.,Koltsov B.
+2019,PRELIMINARY ROUND,Stevenson S.,Evetts T.
+2019,PRELIMINARY ROUND,Noppert D.,Lam R.
+2019,1/32-FINALS,Lewis J.,Harris C.
+2019,PRELIMINARY ROUND,Nicholson P.,Burness K.
+2019,PRELIMINARY ROUND,Tabern A.,Smith R.
+2019,PRELIMINARY ROUND,Barnard M.,de Sousa J.
+2019,1/32-FINALS,Cross R.,de Zwaan J.
+2019,PRELIMINARY ROUND,Dekker J.,Ashton L.
+2019,PRELIMINARY ROUND,Schindler M.,Harris C.
+2019,PRELIMINARY ROUND,de Zwaan J.,Kumar N.
+2018,FINAL,Cross R.,Taylor P.
+2018,SEMI-FINALS,van Gerwen M.,Cross R.
+2018,SEMI-FINALS,Lewis J.,Taylor P.
+2018,QUARTER-FINALS,Taylor P.,Anderson G.
+2018,QUARTER-FINALS,van Gerwen M.,van Barneveld R.
+2018,QUARTER-FINALS,van den Bergh D.,Cross R.
+2018,QUARTER-FINALS,Lewis J.,Webster D.
+2018,1/8-FINALS,Anderson G.,West S.
+2018,1/8-FINALS,Taylor P.,Brown K.
+2018,1/8-FINALS,Lewis J.,Richardson J.
+2018,1/8-FINALS,Henderson J.,Cross R.
+2018,1/8-FINALS,Suljovic M.,van den Bergh D.
+2018,1/8-FINALS,Alcinas T.,Webster D.
+2018,1/8-FINALS,van Gerwen M.,Price G.
+2018,1/8-FINALS,Van der Voort V.,van Barneveld R.
+2018,1/16-FINALS,Wright P.,Lewis J.
+2018,1/16-FINALS,Munch K.,Alcinas T.
+2018,1/16-FINALS,Norris A.,Richardson J.
+2018,1/16-FINALS,Whitlock S.,Webster D.
+2018,1/16-FINALS,van Barneveld R.,Anderson K.
+2018,1/16-FINALS,Taylor P.,Pipe J.
+2018,1/16-FINALS,Gurney D.,Henderson J.
+2018,1/16-FINALS,West S.,Wattimena J.
+2018,1/16-FINALS,Smith M.,Cross R.
+2018,1/16-FINALS,Brown K.,Lerchbacher Z.
+2018,1/16-FINALS,van Gerwen M.,Wilson J.
+2018,1/16-FINALS,Anderson G.,Lim P.
+2018,1/16-FINALS,Suljovic M.,Thornton R.
+2018,1/16-FINALS,Dekker J.,van den Bergh D.
+2018,1/16-FINALS,Van der Voort V.,Beaton S.
+2018,1/16-FINALS,Price G.,White I.
+2018,1/32-FINALS,Wright P.,Portela D.
+2018,1/32-FINALS,Webster D.,Petersen D.
+2018,1/32-FINALS,Huybrechts K.,Richardson J.
+2018,1/32-FINALS,Reyes C.,Alcinas T.
+2018,1/32-FINALS,Pipe J.,Smith B.
+2018,1/32-FINALS,Whitlock S.,Schindler M.
+2018,1/32-FINALS,Smith M.,Lennon S.
+2018,PRELIMINARY ROUND,Zong X. C.,Smith B.
+2018,1/32-FINALS,Lewis A.,Munch K.
+2018,1/32-FINALS,van Barneveld R.,North R.
+2018,1/32-FINALS,Henderson J.,Kantele M.
+2018,PRELIMINARY ROUND,Oreshkin A.,Munch K.
+2018,1/32-FINALS,Webster M.,Lim P.
+2018,1/32-FINALS,Gurney D.,Huybrechts R.
+2018,1/32-FINALS,Suljovic M.,Painter K.
+2018,PRELIMINARY ROUND,Leung K. F.,Lim P.
+2018,1/32-FINALS,White I.,Harris C.
+2018,1/32-FINALS,Chisnall D.,Van der Voort V.
+2018,1/32-FINALS,Wade J.,Brown K.
+2018,PRELIMINARY ROUND,Bruguier W.,Harris C.
+2018,1/32-FINALS,Clayton J.,Lewis J.
+2018,1/32-FINALS,Anderson K.,Jacques P.
+2018,1/32-FINALS,Norris A.,Viljanen K.
+2018,PRELIMINARY ROUND,Neyens K.,Lewis J.
+2018,1/32-FINALS,Anderson G.,Smith J.
+2018,1/32-FINALS,Klaasen J.,Dekker J.
+2018,1/32-FINALS,Cullen J.,Wattimena J.
+2018,PRELIMINARY ROUND,Smith J.,Humphries L.
+2018,1/32-FINALS,Thornton R.,Dolan B.
+2018,1/32-FINALS,King M.,Lerchbacher Z.
+2018,1/32-FINALS,van de Pas B.,West S.
+2018,PRELIMINARY ROUND,Ljubic A.,Dolan B.
+2018,1/32-FINALS,Cross R.,Asada S.
+2018,1/32-FINALS,Taylor P.,Dobey C.
+2018,1/32-FINALS,Bunting S.,van den Bergh D.
+2018,PRELIMINARY ROUND,Asada S.,Mathers G.
+2018,1/32-FINALS,Price G.,Evetts T.
+2018,1/32-FINALS,van Gerwen M.,Kist C.
+2018,1/32-FINALS,Wilson J.,Ratajski K.
+2018,1/32-FINALS,Beaton S.,O'Connor W.

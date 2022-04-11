@@ -3,6 +3,7 @@
 require 'selenium-webdriver'
 require 'nokogiri'
 require 'capybara'
+require 'csv'
 
 Capybara.register_driver :selenium do |app|
   Capybara::Selenium::Driver.new(app, browser: :chrome)
@@ -48,4 +49,37 @@ tournaments = tournaments.map do |tournament|
   { title:, matches: }
 end
 
-File.write('../data/output.json', tournaments.to_json)
+File.write('data/output.json', tournaments.to_json)
+
+initiated = []
+
+tournaments.each do |tournament|
+  year = tournament[:title].split.last.to_i
+
+  index = if year < 2000
+            '1'
+          elsif year < 2006
+            '2'
+          elsif year < 2012
+            '3'
+          elsif year < 2018
+            '4'
+          else
+            '5'
+          end
+
+  CSV.open("data/#{year}.csv", 'w+') do |csv|
+    csv << %w[tournament_year stage player1_name player2_name]
+
+    tournament[:matches].each { |match| csv << [year, match[:stage], match[:first_player], match[:second_player]] }
+  end
+
+  CSV.open("data/Network #{index}.csv", 'a+') do |csv|
+    unless initiated.include?(index)
+      initiated.push(index)
+      csv << %w[tournament_year stage player1_name player2_name]
+    end
+
+    tournament[:matches].each { |match| csv << [year, match[:stage], match[:first_player], match[:second_player]] }
+  end
+end

@@ -1,0 +1,894 @@
+tournament_year,player1_name,player2_name,weight
+Network 5,Smith M.,Wright P.,0
+Network 5,Smith M.,Wade J.,0
+Network 5,Smith M.,O'Connor W.,0
+Network 5,Smith M.,Meulenkamp R.,1
+Network 5,Smith M.,Lowe J.,0
+Network 5,Smith M.,Woodhouse L.,0
+Network 5,Smith M.,Aspinall N.,0
+Network 5,Smith M.,Henderson J.,0
+Network 5,Smith M.,Cross R.,0
+Network 5,Smith M.,Lennon S.,0
+Network 5,Wright P.,Anderson G.,0
+Network 5,Wright P.,Rydz C.,0
+Network 5,Wright P.,Searle R.,0
+Network 5,Wright P.,Heta D.,0
+Network 5,Wright P.,Meikle R.,0
+Network 5,Wright P.,Clemens G.,0
+Network 5,Wright P.,West S.,0
+Network 5,Wright P.,Price G.,0
+Network 5,Wright P.,de Zwaan J.,0
+Network 5,Wright P.,Asada S.,0
+Network 5,Wright P.,Malicdem N.,0
+Network 5,Wright P.,Alcinas T.,0
+Network 5,Wright P.,Lewis J.,0
+Network 5,Wright P.,Portela D.,0
+Network 5,Anderson G.,Cross R.,0
+Network 5,Anderson G.,White I.,0
+Network 5,Anderson G.,Lewis A.,0
+Network 5,Anderson G.,Price G.,0
+Network 5,Anderson G.,van Duijvenbode D.,0
+Network 5,Anderson G.,Suljovic M.,0
+Network 5,Anderson G.,Razma M.,0
+Network 5,Anderson G.,Aspinall N.,0
+Network 5,Anderson G.,Searle R.,0
+Network 5,Anderson G.,Dolan B.,0
+Network 5,Anderson G.,Chisnall D.,0
+Network 5,Anderson G.,Dobey C.,0
+Network 5,Anderson G.,Wattimena J.,0
+Network 5,Anderson G.,Burness K.,0
+Network 5,Anderson G.,West S.,0
+Network 5,Anderson G.,Lim P.,0
+Network 5,Anderson G.,Smith J.,0
+Network 5,Wade J.,King M.,0
+Network 5,Wade J.,Kleermaker M.,0
+Network 5,Wade J.,Van der Voort V.,0
+Network 5,Wade J.,Kuivenhoven M.,0
+Network 5,Wade J.,Bunting S.,0
+Network 5,Wade J.,Rydz C.,0
+Network 5,Wade J.,Beaton S.,0
+Network 5,Wade J.,Edhouse R.,0
+Network 5,Wade J.,Brown K.,1
+Network 5,Wade J.,Asada S.,0
+Network 5,Price G.,Smith M.,0
+Network 5,Price G.,van Duijvenbode D.,0
+Network 5,Price G.,Huybrechts K.,0
+Network 5,Price G.,Edhouse R.,0
+Network 5,Price G.,Gurney D.,0
+Network 5,Price G.,King M.,0
+Network 5,Price G.,Dolan B.,0
+Network 5,Price G.,Lewis J.,0
+Network 5,Price G.,Whitlock S.,0
+Network 5,Price G.,Henderson J.,0
+Network 5,Price G.,O'Connor W.,0
+Network 5,Price G.,Aspinall N.,0
+Network 5,Price G.,White I.,0
+Network 5,Price G.,Evetts T.,0
+Network 5,Rydz C.,Yamada Y.,0
+Network 5,Rydz C.,Bailey J.,0
+Network 5,Humphries L.,Anderson G.,0
+Network 5,Humphries L.,Rodriguez R.-J.,0
+Network 5,Humphries L.,Lim P.,0
+Network 5,Humphries L.,Wright P.,0
+Network 5,Humphries L.,Petersen D.,0
+Network 5,Humphries L.,Smith M.,0
+Network 5,Humphries L.,Hunt A.,0
+Network 5,King M.,Joyce R.,0
+Network 5,King M.,Hopp M.,0
+Network 5,King M.,Teehan C.,0
+Network 5,King M.,Dekker J.,0
+Network 5,King M.,Lerchbacher Z.,0
+Network 5,Searle R.,Noppert D.,0
+Network 5,Searle R.,Borland W.,0
+Network 5,Searle R.,Lauby D. Jr.,0
+Network 5,Searle R.,King R.,0
+Network 5,Searle R.,Smith M.,0
+Network 5,Searle R.,O'Connor W.,0
+Network 5,Searle R.,Burton S.,0
+Network 5,Cross R.,Gurney D.,0
+Network 5,Cross R.,van Barneveld R.,0
+Network 5,Cross R.,van Duijvenbode D.,0
+Network 5,Cross R.,Huybrechts K.,0
+Network 5,Cross R.,Humphries L.,0
+Network 5,Cross R.,Reyes C.,0
+Network 5,Cross R.,de Zwaan J.,0
+Network 5,Cross R.,Taylor P.,0
+Network 5,Cross R.,Asada S.,0
+Network 5,Kleermaker M.,Michael J.,0
+Network 5,Kleermaker M.,Carolissen C.,0
+Network 5,Dobey C.,Humphries L.,0
+Network 5,Dobey C.,Rodriguez Ru. J.,0
+Network 5,Dobey C.,Smith J.,0
+Network 5,Dobey C.,Meulenkamp R.,0
+Network 5,Dobey C.,Koltsov B.,0
+Network 5,Soutar A.,Rydz C.,0
+Network 5,Soutar A.,Portela D.,0
+Network 5,Smith R.,King M.,0
+Network 5,Smith R.,van Duijvenbode D.,0
+Network 5,Smith R.,Smith J.,0
+Network 5,Smith R.,Evans D.,0
+Network 5,Smith R.,Teehan C.,0
+Network 5,Smith R.,Lim P.,0
+Network 5,Clayton J.,Smith M.,0
+Network 5,Clayton J.,Clemens G.,0
+Network 5,Clayton J.,Barry K.,0
+Network 5,Clayton J.,Henderson J.,0
+Network 5,Clayton J.,Bunting S.,0
+Network 5,Clayton J.,Dekker J.,0
+Network 5,Clayton J.,van den Bergh D.,0
+Network 5,Clayton J.,Lewis J.,0
+Network 5,van Duijvenbode D.,Koltsov B.,0
+Network 5,van Duijvenbode D.,Durrant G.,0
+Network 5,van Duijvenbode D.,Hunt A.,0
+Network 5,van Duijvenbode D.,Brooks B.,0
+Network 5,White I.,Landman C.,0
+Network 5,White I.,Huybrechts K.,0
+Network 5,White I.,Labanauskas D.,0
+Network 5,White I.,Petersen D.,0
+Network 5,White I.,Harris C.,0
+Network 5,Aspinall N.,Rydz C.,0
+Network 5,Aspinall N.,Murnan J.,0
+Network 5,Aspinall N.,Van der Voort V.,0
+Network 5,Aspinall N.,Waites S.,0
+Network 5,Aspinall N.,van den Bergh D.,0
+Network 5,Aspinall N.,Ratajski K.,0
+Network 5,Aspinall N.,Baggish D.,0
+Network 5,Aspinall N.,Dolan B.,0
+Network 5,Aspinall N.,Petersen D.,0
+Network 5,Aspinall N.,Anderson K.,0
+Network 5,Aspinall N.,Nentjes G.,0
+Network 5,Chisnall D.,Humphries L.,0
+Network 5,Chisnall D.,de Decker M.,0
+Network 5,Chisnall D.,Anderson G.,0
+Network 5,Chisnall D.,van den Bergh D.,0
+Network 5,Chisnall D.,Noppert D.,0
+Network 5,Chisnall D.,Brown K.,0
+Network 5,Chisnall D.,de Zwaan J.,0
+Network 5,Chisnall D.,Van der Voort V.,1
+Network 5,Chisnall D.,Huybrechts K.,0
+Network 5,Chisnall D.,Payne J.,0
+Network 5,de Sousa J.,Soutar A.,0
+Network 5,de Sousa J.,Lowe J.,0
+Network 5,de Sousa J.,King M.,0
+Network 5,de Sousa J.,Smith R.,0
+Network 5,de Sousa J.,Heta D.,0
+Network 5,van Gerwen M.,Dobey C.,0
+Network 5,van Gerwen M.,Barstow C.,0
+Network 5,van Gerwen M.,Chisnall D.,0
+Network 5,van Gerwen M.,Cullen J.,0
+Network 5,van Gerwen M.,Evans R.,1
+Network 5,van Gerwen M.,Murray R.,0
+Network 5,van Gerwen M.,Wright P.,0
+Network 5,van Gerwen M.,Aspinall N.,0
+Network 5,van Gerwen M.,Labanauskas D.,0
+Network 5,van Gerwen M.,Bunting S.,0
+Network 5,van Gerwen M.,Klaasen J.,0
+Network 5,van Gerwen M.,Smith M.,0
+Network 5,van Gerwen M.,Anderson G.,0
+Network 5,van Gerwen M.,Joyce R.,0
+Network 5,van Gerwen M.,Lewis A.,0
+Network 5,van Gerwen M.,Hopp M.,0
+Network 5,van Gerwen M.,Tabern A.,0
+Network 5,van Gerwen M.,Cross R.,0
+Network 5,van Gerwen M.,van Barneveld R.,0
+Network 5,van Gerwen M.,Price G.,0
+Network 5,van Gerwen M.,Wilson J.,0
+Network 5,van Gerwen M.,Kist C.,0
+Network 5,Heta D.,Woodhouse L.,0
+Network 5,Heta D.,Baggish D.,0
+Network 5,Gurney D.,Evans R.,0
+Network 5,Gurney D.,Dobey C.,0
+Network 5,Gurney D.,O'Connor W.,0
+Network 5,Gurney D.,Durrant G.,0
+Network 5,Gurney D.,Pipe J.,0
+Network 5,Gurney D.,Lewis J.,0
+Network 5,Gurney D.,Smith R.,0
+Network 5,Gurney D.,Henderson J.,0
+Network 5,Gurney D.,Huybrechts R.,0
+Network 5,Cullen J.,Kleermaker M.,0
+Network 5,Cullen J.,Williams J.,0
+Network 5,Cullen J.,Clayton J.,0
+Network 5,Cullen J.,Jones W.,0
+Network 5,Cullen J.,Kurz N.,0
+Network 5,Cullen J.,Dolan B.,0
+Network 5,Cullen J.,Wattimena J.,0
+Network 5,Noppert D.,Heaver J.,0
+Network 5,Noppert D.,Carolissen C.,0
+Network 5,Noppert D.,Rydz C.,0
+Network 5,Noppert D.,Lam R.,0
+Network 5,Lennon S.,King M.,0
+Network 5,Lennon S.,Razma M.,0
+Network 5,Lennon S.,Larsson D.,0
+Network 5,Lennon S.,Rydz C.,0
+Network 5,Lennon S.,Bailey J.,0
+Network 5,Clemens G.,Williams L.,0
+Network 5,Clemens G.,Ratajski K.,0
+Network 5,Clemens G.,Kurz N.,0
+Network 5,Clemens G.,van de Pas B.,0
+Network 5,Clemens G.,Kirk A.,0
+Network 5,Huybrechts K.,Beaton S.,0
+Network 5,Huybrechts K.,Searle R.,0
+Network 5,Huybrechts K.,Zhuang D.,0
+Network 5,Huybrechts K.,Humphries L.,0
+Network 5,Huybrechts K.,Noppert D.,0
+Network 5,Huybrechts K.,Nentjes G.,0
+Network 5,Huybrechts K.,Larsson D.,0
+Network 5,Huybrechts K.,Richardson J.,0
+Network 5,Van der Voort V.,Hunt A.,0
+Network 5,Van der Voort V.,Gurney D.,0
+Network 5,Van der Voort V.,Meulenkamp R.,0
+Network 5,Van der Voort V.,Barry K.,0
+Network 5,Van der Voort V.,Dobey C.,0
+Network 5,Van der Voort V.,Ilagan L.,0
+Network 5,Van der Voort V.,van Barneveld R.,0
+Network 5,Van der Voort V.,Beaton S.,0
+Network 5,Hempel F.,Smith R.,0
+Network 5,Hempel F.,Schindler M.,0
+Network 5,O'Connor W.,Lauby D. Jr.,0
+Network 5,O'Connor W.,Zonneveld N.,0
+Network 5,O'Connor W.,Kantele M.,0
+Network 5,O'Connor W.,Meeuwisse Y.,0
+Network 5,Rodriguez Ru. J.,Robb B.,0
+Network 5,van Barneveld R.,Ilagan L.,0
+Network 5,van Barneveld R.,Young D.,0
+Network 5,van Barneveld R.,Labanauskas D.,0
+Network 5,van Barneveld R.,Anderson K.,0
+Network 5,van Barneveld R.,North R.,0
+Network 5,Williams L.,Shibata T.,0
+Network 5,Heaver J.,Mathers G.,0
+Network 5,Lowe J.,Larsson D.,0
+Network 5,Lowe J.,Petersen D.,0
+Network 5,Lowe J.,Gorbunov D.,0
+Network 5,Suljovic M.,Soutar A.,0
+Network 5,Suljovic M.,Edgar M.,0
+Network 5,Suljovic M.,Sherrock F.,0
+Network 5,Suljovic M.,Searle R.,0
+Network 5,Suljovic M.,van den Bergh D.,0
+Network 5,Suljovic M.,Thornton R.,0
+Network 5,Suljovic M.,Painter K.,0
+Network 5,Dolan B.,Rydz C.,0
+Network 5,Dolan B.,Foulkes E.,0
+Network 5,Dolan B.,Kumar N.,0
+Network 5,Dolan B.,King M.,0
+Network 5,Dolan B.,Liu Y.,0
+Network 5,Woodhouse L.,Wilson J.,0
+Network 5,Woodhouse L.,Lewis J.,0
+Network 5,Woodhouse L.,van den Bergh D.,0
+Network 5,Woodhouse L.,Lim P.,0
+Network 5,Whitlock S.,Kleermaker M.,0
+Network 5,Whitlock S.,Labanauskas D.,0
+Network 5,Whitlock S.,King M.,0
+Network 5,Whitlock S.,Ward H.,0
+Network 5,Whitlock S.,Joyce R.,0
+Network 5,Whitlock S.,Webster D.,0
+Network 5,Whitlock S.,Schindler M.,0
+Network 5,Beaton S.,Sherrock F.,0
+Network 5,Beaton S.,Portela D.,0
+Network 5,Beaton S.,Labanauskas D.,0
+Network 5,Beaton S.,Anderson K.,0
+Network 5,Beaton S.,Dobey C.,0
+Network 5,Beaton S.,O'Connor W.,0
+Network 5,Murnan J.,Lim P.,0
+Network 5,Rodriguez R.-J.,Kenny N.,0
+Network 5,Rodriguez R.-J.,Malicdem N.,0
+Network 5,Durrant G.,O'Connor W.,0
+Network 5,Durrant G.,Baggish D.,0
+Network 5,Durrant G.,Portela D.,0
+Network 5,Durrant G.,Price G.,0
+Network 5,Durrant G.,Dobey C.,0
+Network 5,Durrant G.,Heta D.,0
+Network 5,Borland W.,Brooks B.,0
+Network 5,Petersen D.,Smith R.,0
+Network 5,Petersen D.,Anderson G.,0
+Network 5,Petersen D.,Lennon S.,0
+Network 5,Petersen D.,West S.,0
+Network 5,van den Bergh D.,Hempel F.,0
+Network 5,van den Bergh D.,Wattimena J.,0
+Network 5,van den Bergh D.,Lim P.,0
+Network 5,van den Bergh D.,Lewis A.,0
+Network 5,van den Bergh D.,Payne J.,0
+Network 5,van den Bergh D.,Humphries L.,0
+Network 5,van den Bergh D.,Puleo C.,0
+Network 5,van den Bergh D.,Cross R.,0
+Network 5,Meulenkamp R.,Ashton L.,0
+Network 5,Meulenkamp R.,Krcmar B.,0
+Network 5,Meulenkamp R.,Robb B.,0
+Network 5,Meulenkamp R.,Portela D.,0
+Network 5,Hunt A.,Krcmar B.,0
+Network 5,Hunt A.,Ashton L.,0
+Network 5,de Decker M.,Foulkes E.,0
+Network 5,Joyce R.,Benecky R.,0
+Network 5,Joyce R.,Sedlacek K.,0
+Network 5,Joyce R.,Dekker J.,0
+Network 5,Joyce R.,Wade J.,0
+Network 5,Joyce R.,Norris A.,0
+Network 5,Joyce R.,Dobromyslova A.,0
+Network 5,Kuivenhoven M.,Smith K.,0
+Network 5,Kuivenhoven M.,Edgar M.,0
+Network 5,Wilson J.,Kurz N.,0
+Network 5,Wilson J.,O'Connor W.,0
+Network 5,Wilson J.,Ratajski K.,0
+Network 5,Barry K.,Lam R.,0
+Network 5,Sherrock F.,Dobey C.,0
+Network 5,Schindler M.,Harris C.,0
+Network 5,Bunting S.,Smith R.,0
+Network 5,Bunting S.,Price G.,0
+Network 5,Bunting S.,Searle R.,0
+Network 5,Bunting S.,Boulton A.,0
+Network 5,Bunting S.,Justicia J.,0
+Network 5,Bunting S.,Humphries L.,0
+Network 5,Bunting S.,van den Bergh D.,0
+Network 5,Barstow C.,Norman J.,0
+Network 5,Evetts T.,Williams J.,0
+Network 5,Evetts T.,Sherrock F.,0
+Network 5,Labanauskas D.,de Decker M.,0
+Network 5,Labanauskas D.,Liu C. A.,0
+Network 5,Labanauskas D.,Hopp M.,0
+Network 5,Labanauskas D.,Edgar M.,0
+Network 5,Hughes J.,Smith R.,0
+Network 5,Hughes J.,Hunt A.,0
+Network 5,Hughes J.,Lerchbacher Z.,0
+Network 5,Meikle R.,Schmutzler F.,0
+Network 5,Meikle R.,Yamada Y.,0
+Network 5,Smith J.,Barry K.,0
+Network 5,Smith J.,Humphries L.,0
+Network 5,Ratajski K.,Lennon S.,0
+Network 5,Ratajski K.,Bunting S.,0
+Network 5,Ratajski K.,Whitlock S.,0
+Network 5,Ratajski K.,Joyce R.,0
+Network 5,Ratajski K.,Lerchbacher Z.,0
+Network 5,Ratajski K.,Asada S.,0
+Network 5,Wattimena J.,Koltsov B.,0
+Network 5,Wattimena J.,Kenny N.,0
+Network 5,Wattimena J.,Humphries L.,0
+Network 5,Wattimena J.,Barnard M.,0
+Network 5,Lewis A.,Campbell M.,0
+Network 5,Lewis A.,Baggish D.,0
+Network 5,Lewis A.,Webster D.,0
+Network 5,Lewis A.,Reyes C.,0
+Network 5,Lewis A.,Labanauskas D.,0
+Network 5,Lewis A.,Evetts T.,0
+Network 5,Lewis A.,Munch K.,0
+Network 5,Evans R.,Kumar N.,0
+Network 5,Evans R.,Mansell M.,0
+Network 5,Evans R.,McGeeney M.,0
+Network 5,Evans R.,Rodriguez R.-J.,0
+Network 5,Mitchell S.,Landman C.,0
+Network 5,Razma M.,Suzuki T.,0
+Network 5,Edhouse R.,Hudson P.,0
+Network 5,Edhouse R.,Koltsov B.,0
+Network 5,Waites S.,Campbell M.,0
+Network 5,Brown K.,Meikle R.,0
+Network 5,Brown K.,Asada S.,0
+Network 5,Brown K.,Sedlacek K.,0
+Network 5,Brown K.,Lerchbacher Z.,0
+Network 5,Edgar M.,Labanauskas D.,0
+Network 5,Boulton A.,Hedman D.,0
+Network 5,Boulton A.,Baggish D.,0
+Network 5,Mansell M.,Puha H.,0
+Network 5,Mansell M.,Asada S.,0
+Network 5,Mansell M.,Long J.,0
+Network 5,Jones W.,Teehan C.,0
+Network 5,Jones W.,Petersen D.,0
+Network 5,Kurz N.,Humphries L.,0
+Network 5,Lewis J.,Chisnall D.,0
+Network 5,Lewis J.,Harris C.,0
+Network 5,Lewis J.,Taylor P.,0
+Network 5,Lewis J.,Webster D.,0
+Network 5,Lewis J.,Richardson J.,0
+Network 5,Henderson J.,Kantele M.,1
+Network 5,Henderson J.,Richardson J.,0
+Network 5,Henderson J.,Clemens G.,0
+Network 5,Henderson J.,Cross R.,0
+Network 5,de Zwaan J.,Searle R.,0
+Network 5,de Zwaan J.,Young D.,0
+Network 5,de Zwaan J.,Kumar N.,0
+Network 5,Telnekes D.,Kenny N.,0
+Network 5,Murray R.,Ilagan L.,0
+Network 5,Hamilton A.,Kurz N.,0
+Network 5,Hopp M.,Mathers G.,0
+Network 5,Hopp M.,van de Pas B.,0
+Network 5,Hopp M.,Noppert D.,0
+Network 5,West S.,Gilitwala A.,0
+Network 5,West S.,Searle R.,0
+Network 5,West S.,North R.,0
+Network 5,West S.,Wattimena J.,0
+Network 5,Asada S.,Mathers G.,0
+Network 5,Webster D.,Yamada Y.,0
+Network 5,Webster D.,Van der Voort V.,0
+Network 5,Webster D.,Petersen D.,0
+Network 5,Payne J.,Portela D.,0
+Network 5,Payne J.,Smith J.,0
+Network 5,Pipe J.,Pratnemer B.,0
+Network 5,Pipe J.,Smith B.,0
+Network 5,Reyes C.,Ilagan L.,0
+Network 5,Reyes C.,Rodriguez R.-J.,0
+Network 5,Reyes C.,Alcinas T.,0
+Network 5,Ward H.,Razma M.,0
+Network 5,van de Pas B.,Dolan B.,0
+Network 5,van de Pas B.,Long J.,0
+Network 5,van de Pas B.,West S.,0
+Network 5,McGeeney M.,Campbell M.,0
+Network 5,Dekker J.,Ashton L.,0
+Network 5,Dekker J.,van den Bergh D.,0
+Network 5,Anderson K.,Zong X. C.,0
+Network 5,Anderson K.,Malicdem N.,0
+Network 5,Anderson K.,Jacques P.,0
+Network 5,Richardson J.,Suzuki M.,0
+Network 5,Monk A.,Justicia J.,0
+Network 5,Zong X. C.,Smith B.,0
+Network 5,Klaasen J.,Burness K.,0
+Network 5,Klaasen J.,Brown K.,0
+Network 5,Klaasen J.,Dekker J.,0
+Network 5,Alcinas T.,van de Pas B.,0
+Network 5,Alcinas T.,Ross C.,0
+Network 5,Alcinas T.,Webster D.,0
+Network 5,Norris A.,Lennon S.,0
+Network 5,Norris A.,Richardson J.,0
+Network 5,Norris A.,Viljanen K.,0
+Network 5,North R.,Marijanovic R.,0
+Network 5,Barnard M.,de Sousa J.,0
+Network 5,de Graaf J.,Malicdem N.,0
+Network 5,Thornton R.,Larsson D.,0
+Network 5,Thornton R.,Dolan B.,0
+Network 5,Tabern A.,Smith R.,0
+Network 5,Stevenson S.,Evetts T.,0
+Network 5,Nicholson P.,Burness K.,0
+Network 5,Taylor P.,Anderson G.,0
+Network 5,Taylor P.,Brown K.,0
+Network 5,Taylor P.,Pipe J.,0
+Network 5,Taylor P.,Dobey C.,0
+Network 5,Munch K.,Alcinas T.,0
+Network 5,Oreshkin A.,Munch K.,0
+Network 5,Webster M.,Lim P.,0
+Network 5,Leung K. F.,Lim P.,0
+Network 5,Bruguier W.,Harris C.,0
+Network 5,Neyens K.,Lewis J.,0
+Network 5,Ljubic A.,Dolan B.,0
+tournament_year,player1_name,player2_name,weight
+Network 5,Smith M.,Wright P.,0
+Network 5,Smith M.,Wade J.,0
+Network 5,Smith M.,O'Connor W.,0
+Network 5,Smith M.,Meulenkamp R.,1
+Network 5,Smith M.,Lowe J.,0
+Network 5,Smith M.,Woodhouse L.,0
+Network 5,Smith M.,Aspinall N.,0
+Network 5,Smith M.,Henderson J.,0
+Network 5,Smith M.,Cross R.,0
+Network 5,Smith M.,Lennon S.,0
+Network 5,Wright P.,Anderson G.,0
+Network 5,Wright P.,Rydz C.,0
+Network 5,Wright P.,Searle R.,0
+Network 5,Wright P.,Heta D.,0
+Network 5,Wright P.,Meikle R.,0
+Network 5,Wright P.,Clemens G.,0
+Network 5,Wright P.,West S.,0
+Network 5,Wright P.,Price G.,0
+Network 5,Wright P.,de Zwaan J.,0
+Network 5,Wright P.,Asada S.,0
+Network 5,Wright P.,Malicdem N.,0
+Network 5,Wright P.,Alcinas T.,0
+Network 5,Wright P.,Lewis J.,0
+Network 5,Wright P.,Portela D.,0
+Network 5,Anderson G.,Cross R.,0
+Network 5,Anderson G.,White I.,0
+Network 5,Anderson G.,Lewis A.,0
+Network 5,Anderson G.,Price G.,0
+Network 5,Anderson G.,van Duijvenbode D.,0
+Network 5,Anderson G.,Suljovic M.,0
+Network 5,Anderson G.,Razma M.,0
+Network 5,Anderson G.,Aspinall N.,0
+Network 5,Anderson G.,Searle R.,0
+Network 5,Anderson G.,Dolan B.,0
+Network 5,Anderson G.,Chisnall D.,0
+Network 5,Anderson G.,Dobey C.,0
+Network 5,Anderson G.,Wattimena J.,0
+Network 5,Anderson G.,Burness K.,0
+Network 5,Anderson G.,West S.,0
+Network 5,Anderson G.,Lim P.,0
+Network 5,Anderson G.,Smith J.,0
+Network 5,Wade J.,King M.,0
+Network 5,Wade J.,Kleermaker M.,0
+Network 5,Wade J.,Van der Voort V.,0
+Network 5,Wade J.,Kuivenhoven M.,0
+Network 5,Wade J.,Bunting S.,0
+Network 5,Wade J.,Rydz C.,0
+Network 5,Wade J.,Beaton S.,0
+Network 5,Wade J.,Edhouse R.,0
+Network 5,Wade J.,Brown K.,1
+Network 5,Wade J.,Asada S.,0
+Network 5,Price G.,Smith M.,0
+Network 5,Price G.,van Duijvenbode D.,0
+Network 5,Price G.,Huybrechts K.,0
+Network 5,Price G.,Edhouse R.,0
+Network 5,Price G.,Gurney D.,0
+Network 5,Price G.,King M.,0
+Network 5,Price G.,Dolan B.,0
+Network 5,Price G.,Lewis J.,0
+Network 5,Price G.,Whitlock S.,0
+Network 5,Price G.,Henderson J.,0
+Network 5,Price G.,O'Connor W.,0
+Network 5,Price G.,Aspinall N.,0
+Network 5,Price G.,White I.,0
+Network 5,Price G.,Evetts T.,0
+Network 5,Rydz C.,Yamada Y.,0
+Network 5,Rydz C.,Bailey J.,0
+Network 5,Humphries L.,Anderson G.,0
+Network 5,Humphries L.,Rodriguez R.-J.,0
+Network 5,Humphries L.,Lim P.,0
+Network 5,Humphries L.,Wright P.,0
+Network 5,Humphries L.,Petersen D.,0
+Network 5,Humphries L.,Smith M.,0
+Network 5,Humphries L.,Hunt A.,0
+Network 5,King M.,Joyce R.,0
+Network 5,King M.,Hopp M.,0
+Network 5,King M.,Teehan C.,0
+Network 5,King M.,Dekker J.,0
+Network 5,King M.,Lerchbacher Z.,0
+Network 5,Searle R.,Noppert D.,0
+Network 5,Searle R.,Borland W.,0
+Network 5,Searle R.,Lauby D. Jr.,0
+Network 5,Searle R.,King R.,0
+Network 5,Searle R.,Smith M.,0
+Network 5,Searle R.,O'Connor W.,0
+Network 5,Searle R.,Burton S.,0
+Network 5,Cross R.,Gurney D.,0
+Network 5,Cross R.,van Barneveld R.,0
+Network 5,Cross R.,van Duijvenbode D.,0
+Network 5,Cross R.,Huybrechts K.,0
+Network 5,Cross R.,Humphries L.,0
+Network 5,Cross R.,Reyes C.,0
+Network 5,Cross R.,de Zwaan J.,0
+Network 5,Cross R.,Taylor P.,0
+Network 5,Cross R.,Asada S.,0
+Network 5,Kleermaker M.,Michael J.,0
+Network 5,Kleermaker M.,Carolissen C.,0
+Network 5,Dobey C.,Humphries L.,0
+Network 5,Dobey C.,Rodriguez Ru. J.,0
+Network 5,Dobey C.,Smith J.,0
+Network 5,Dobey C.,Meulenkamp R.,0
+Network 5,Dobey C.,Koltsov B.,0
+Network 5,Soutar A.,Rydz C.,0
+Network 5,Soutar A.,Portela D.,0
+Network 5,Smith R.,King M.,0
+Network 5,Smith R.,van Duijvenbode D.,0
+Network 5,Smith R.,Smith J.,0
+Network 5,Smith R.,Evans D.,0
+Network 5,Smith R.,Teehan C.,0
+Network 5,Smith R.,Lim P.,0
+Network 5,Clayton J.,Smith M.,0
+Network 5,Clayton J.,Clemens G.,0
+Network 5,Clayton J.,Barry K.,0
+Network 5,Clayton J.,Henderson J.,0
+Network 5,Clayton J.,Bunting S.,0
+Network 5,Clayton J.,Dekker J.,0
+Network 5,Clayton J.,van den Bergh D.,0
+Network 5,Clayton J.,Lewis J.,0
+Network 5,van Duijvenbode D.,Koltsov B.,0
+Network 5,van Duijvenbode D.,Durrant G.,0
+Network 5,van Duijvenbode D.,Hunt A.,0
+Network 5,van Duijvenbode D.,Brooks B.,0
+Network 5,White I.,Landman C.,0
+Network 5,White I.,Huybrechts K.,0
+Network 5,White I.,Labanauskas D.,0
+Network 5,White I.,Petersen D.,0
+Network 5,White I.,Harris C.,0
+Network 5,Aspinall N.,Rydz C.,0
+Network 5,Aspinall N.,Murnan J.,0
+Network 5,Aspinall N.,Van der Voort V.,0
+Network 5,Aspinall N.,Waites S.,0
+Network 5,Aspinall N.,van den Bergh D.,0
+Network 5,Aspinall N.,Ratajski K.,0
+Network 5,Aspinall N.,Baggish D.,0
+Network 5,Aspinall N.,Dolan B.,0
+Network 5,Aspinall N.,Petersen D.,0
+Network 5,Aspinall N.,Anderson K.,0
+Network 5,Aspinall N.,Nentjes G.,0
+Network 5,Chisnall D.,Humphries L.,0
+Network 5,Chisnall D.,de Decker M.,0
+Network 5,Chisnall D.,Anderson G.,0
+Network 5,Chisnall D.,van den Bergh D.,0
+Network 5,Chisnall D.,Noppert D.,0
+Network 5,Chisnall D.,Brown K.,0
+Network 5,Chisnall D.,de Zwaan J.,0
+Network 5,Chisnall D.,Van der Voort V.,1
+Network 5,Chisnall D.,Huybrechts K.,0
+Network 5,Chisnall D.,Payne J.,0
+Network 5,de Sousa J.,Soutar A.,0
+Network 5,de Sousa J.,Lowe J.,0
+Network 5,de Sousa J.,King M.,0
+Network 5,de Sousa J.,Smith R.,0
+Network 5,de Sousa J.,Heta D.,0
+Network 5,van Gerwen M.,Dobey C.,0
+Network 5,van Gerwen M.,Barstow C.,0
+Network 5,van Gerwen M.,Chisnall D.,0
+Network 5,van Gerwen M.,Cullen J.,0
+Network 5,van Gerwen M.,Evans R.,1
+Network 5,van Gerwen M.,Murray R.,0
+Network 5,van Gerwen M.,Wright P.,0
+Network 5,van Gerwen M.,Aspinall N.,0
+Network 5,van Gerwen M.,Labanauskas D.,0
+Network 5,van Gerwen M.,Bunting S.,0
+Network 5,van Gerwen M.,Klaasen J.,0
+Network 5,van Gerwen M.,Smith M.,0
+Network 5,van Gerwen M.,Anderson G.,0
+Network 5,van Gerwen M.,Joyce R.,0
+Network 5,van Gerwen M.,Lewis A.,0
+Network 5,van Gerwen M.,Hopp M.,0
+Network 5,van Gerwen M.,Tabern A.,0
+Network 5,van Gerwen M.,Cross R.,0
+Network 5,van Gerwen M.,van Barneveld R.,0
+Network 5,van Gerwen M.,Price G.,0
+Network 5,van Gerwen M.,Wilson J.,0
+Network 5,van Gerwen M.,Kist C.,0
+Network 5,Heta D.,Woodhouse L.,0
+Network 5,Heta D.,Baggish D.,0
+Network 5,Gurney D.,Evans R.,0
+Network 5,Gurney D.,Dobey C.,0
+Network 5,Gurney D.,O'Connor W.,0
+Network 5,Gurney D.,Durrant G.,0
+Network 5,Gurney D.,Pipe J.,0
+Network 5,Gurney D.,Lewis J.,0
+Network 5,Gurney D.,Smith R.,0
+Network 5,Gurney D.,Henderson J.,0
+Network 5,Gurney D.,Huybrechts R.,0
+Network 5,Cullen J.,Kleermaker M.,0
+Network 5,Cullen J.,Williams J.,0
+Network 5,Cullen J.,Clayton J.,0
+Network 5,Cullen J.,Jones W.,0
+Network 5,Cullen J.,Kurz N.,0
+Network 5,Cullen J.,Dolan B.,0
+Network 5,Cullen J.,Wattimena J.,0
+Network 5,Noppert D.,Heaver J.,0
+Network 5,Noppert D.,Carolissen C.,0
+Network 5,Noppert D.,Rydz C.,0
+Network 5,Noppert D.,Lam R.,0
+Network 5,Lennon S.,King M.,0
+Network 5,Lennon S.,Razma M.,0
+Network 5,Lennon S.,Larsson D.,0
+Network 5,Lennon S.,Rydz C.,0
+Network 5,Lennon S.,Bailey J.,0
+Network 5,Clemens G.,Williams L.,0
+Network 5,Clemens G.,Ratajski K.,0
+Network 5,Clemens G.,Kurz N.,0
+Network 5,Clemens G.,van de Pas B.,0
+Network 5,Clemens G.,Kirk A.,0
+Network 5,Huybrechts K.,Beaton S.,0
+Network 5,Huybrechts K.,Searle R.,0
+Network 5,Huybrechts K.,Zhuang D.,0
+Network 5,Huybrechts K.,Humphries L.,0
+Network 5,Huybrechts K.,Noppert D.,0
+Network 5,Huybrechts K.,Nentjes G.,0
+Network 5,Huybrechts K.,Larsson D.,0
+Network 5,Huybrechts K.,Richardson J.,0
+Network 5,Van der Voort V.,Hunt A.,0
+Network 5,Van der Voort V.,Gurney D.,0
+Network 5,Van der Voort V.,Meulenkamp R.,0
+Network 5,Van der Voort V.,Barry K.,0
+Network 5,Van der Voort V.,Dobey C.,0
+Network 5,Van der Voort V.,Ilagan L.,0
+Network 5,Van der Voort V.,van Barneveld R.,0
+Network 5,Van der Voort V.,Beaton S.,0
+Network 5,Hempel F.,Smith R.,0
+Network 5,Hempel F.,Schindler M.,0
+Network 5,O'Connor W.,Lauby D. Jr.,0
+Network 5,O'Connor W.,Zonneveld N.,0
+Network 5,O'Connor W.,Kantele M.,0
+Network 5,O'Connor W.,Meeuwisse Y.,0
+Network 5,Rodriguez Ru. J.,Robb B.,0
+Network 5,van Barneveld R.,Ilagan L.,0
+Network 5,van Barneveld R.,Young D.,0
+Network 5,van Barneveld R.,Labanauskas D.,0
+Network 5,van Barneveld R.,Anderson K.,0
+Network 5,van Barneveld R.,North R.,0
+Network 5,Williams L.,Shibata T.,0
+Network 5,Heaver J.,Mathers G.,0
+Network 5,Lowe J.,Larsson D.,0
+Network 5,Lowe J.,Petersen D.,0
+Network 5,Lowe J.,Gorbunov D.,0
+Network 5,Suljovic M.,Soutar A.,0
+Network 5,Suljovic M.,Edgar M.,0
+Network 5,Suljovic M.,Sherrock F.,0
+Network 5,Suljovic M.,Searle R.,0
+Network 5,Suljovic M.,van den Bergh D.,0
+Network 5,Suljovic M.,Thornton R.,0
+Network 5,Suljovic M.,Painter K.,0
+Network 5,Dolan B.,Rydz C.,0
+Network 5,Dolan B.,Foulkes E.,0
+Network 5,Dolan B.,Kumar N.,0
+Network 5,Dolan B.,King M.,0
+Network 5,Dolan B.,Liu Y.,0
+Network 5,Woodhouse L.,Wilson J.,0
+Network 5,Woodhouse L.,Lewis J.,0
+Network 5,Woodhouse L.,van den Bergh D.,0
+Network 5,Woodhouse L.,Lim P.,0
+Network 5,Whitlock S.,Kleermaker M.,0
+Network 5,Whitlock S.,Labanauskas D.,0
+Network 5,Whitlock S.,King M.,0
+Network 5,Whitlock S.,Ward H.,0
+Network 5,Whitlock S.,Joyce R.,0
+Network 5,Whitlock S.,Webster D.,0
+Network 5,Whitlock S.,Schindler M.,0
+Network 5,Beaton S.,Sherrock F.,0
+Network 5,Beaton S.,Portela D.,0
+Network 5,Beaton S.,Labanauskas D.,0
+Network 5,Beaton S.,Anderson K.,0
+Network 5,Beaton S.,Dobey C.,0
+Network 5,Beaton S.,O'Connor W.,0
+Network 5,Murnan J.,Lim P.,0
+Network 5,Rodriguez R.-J.,Kenny N.,0
+Network 5,Rodriguez R.-J.,Malicdem N.,0
+Network 5,Durrant G.,O'Connor W.,0
+Network 5,Durrant G.,Baggish D.,0
+Network 5,Durrant G.,Portela D.,0
+Network 5,Durrant G.,Price G.,0
+Network 5,Durrant G.,Dobey C.,0
+Network 5,Durrant G.,Heta D.,0
+Network 5,Borland W.,Brooks B.,0
+Network 5,Petersen D.,Smith R.,0
+Network 5,Petersen D.,Anderson G.,0
+Network 5,Petersen D.,Lennon S.,0
+Network 5,Petersen D.,West S.,0
+Network 5,van den Bergh D.,Hempel F.,0
+Network 5,van den Bergh D.,Wattimena J.,0
+Network 5,van den Bergh D.,Lim P.,0
+Network 5,van den Bergh D.,Lewis A.,0
+Network 5,van den Bergh D.,Payne J.,0
+Network 5,van den Bergh D.,Humphries L.,0
+Network 5,van den Bergh D.,Puleo C.,0
+Network 5,van den Bergh D.,Cross R.,0
+Network 5,Meulenkamp R.,Ashton L.,0
+Network 5,Meulenkamp R.,Krcmar B.,0
+Network 5,Meulenkamp R.,Robb B.,0
+Network 5,Meulenkamp R.,Portela D.,0
+Network 5,Hunt A.,Krcmar B.,0
+Network 5,Hunt A.,Ashton L.,0
+Network 5,de Decker M.,Foulkes E.,0
+Network 5,Joyce R.,Benecky R.,0
+Network 5,Joyce R.,Sedlacek K.,0
+Network 5,Joyce R.,Dekker J.,0
+Network 5,Joyce R.,Wade J.,0
+Network 5,Joyce R.,Norris A.,0
+Network 5,Joyce R.,Dobromyslova A.,0
+Network 5,Kuivenhoven M.,Smith K.,0
+Network 5,Kuivenhoven M.,Edgar M.,0
+Network 5,Wilson J.,Kurz N.,0
+Network 5,Wilson J.,O'Connor W.,0
+Network 5,Wilson J.,Ratajski K.,0
+Network 5,Barry K.,Lam R.,0
+Network 5,Sherrock F.,Dobey C.,0
+Network 5,Schindler M.,Harris C.,0
+Network 5,Bunting S.,Smith R.,0
+Network 5,Bunting S.,Price G.,0
+Network 5,Bunting S.,Searle R.,0
+Network 5,Bunting S.,Boulton A.,0
+Network 5,Bunting S.,Justicia J.,0
+Network 5,Bunting S.,Humphries L.,0
+Network 5,Bunting S.,van den Bergh D.,0
+Network 5,Barstow C.,Norman J.,0
+Network 5,Evetts T.,Williams J.,0
+Network 5,Evetts T.,Sherrock F.,0
+Network 5,Labanauskas D.,de Decker M.,0
+Network 5,Labanauskas D.,Liu C. A.,0
+Network 5,Labanauskas D.,Hopp M.,0
+Network 5,Labanauskas D.,Edgar M.,0
+Network 5,Hughes J.,Smith R.,0
+Network 5,Hughes J.,Hunt A.,0
+Network 5,Hughes J.,Lerchbacher Z.,0
+Network 5,Meikle R.,Schmutzler F.,0
+Network 5,Meikle R.,Yamada Y.,0
+Network 5,Smith J.,Barry K.,0
+Network 5,Smith J.,Humphries L.,0
+Network 5,Ratajski K.,Lennon S.,0
+Network 5,Ratajski K.,Bunting S.,0
+Network 5,Ratajski K.,Whitlock S.,0
+Network 5,Ratajski K.,Joyce R.,0
+Network 5,Ratajski K.,Lerchbacher Z.,0
+Network 5,Ratajski K.,Asada S.,0
+Network 5,Wattimena J.,Koltsov B.,0
+Network 5,Wattimena J.,Kenny N.,0
+Network 5,Wattimena J.,Humphries L.,0
+Network 5,Wattimena J.,Barnard M.,0
+Network 5,Lewis A.,Campbell M.,0
+Network 5,Lewis A.,Baggish D.,0
+Network 5,Lewis A.,Webster D.,0
+Network 5,Lewis A.,Reyes C.,0
+Network 5,Lewis A.,Labanauskas D.,0
+Network 5,Lewis A.,Evetts T.,0
+Network 5,Lewis A.,Munch K.,0
+Network 5,Evans R.,Kumar N.,0
+Network 5,Evans R.,Mansell M.,0
+Network 5,Evans R.,McGeeney M.,0
+Network 5,Evans R.,Rodriguez R.-J.,0
+Network 5,Mitchell S.,Landman C.,0
+Network 5,Razma M.,Suzuki T.,0
+Network 5,Edhouse R.,Hudson P.,0
+Network 5,Edhouse R.,Koltsov B.,0
+Network 5,Waites S.,Campbell M.,0
+Network 5,Brown K.,Meikle R.,0
+Network 5,Brown K.,Asada S.,0
+Network 5,Brown K.,Sedlacek K.,0
+Network 5,Brown K.,Lerchbacher Z.,0
+Network 5,Edgar M.,Labanauskas D.,0
+Network 5,Boulton A.,Hedman D.,0
+Network 5,Boulton A.,Baggish D.,0
+Network 5,Mansell M.,Puha H.,0
+Network 5,Mansell M.,Asada S.,0
+Network 5,Mansell M.,Long J.,0
+Network 5,Jones W.,Teehan C.,0
+Network 5,Jones W.,Petersen D.,0
+Network 5,Kurz N.,Humphries L.,0
+Network 5,Lewis J.,Chisnall D.,0
+Network 5,Lewis J.,Harris C.,0
+Network 5,Lewis J.,Taylor P.,0
+Network 5,Lewis J.,Webster D.,0
+Network 5,Lewis J.,Richardson J.,0
+Network 5,Henderson J.,Kantele M.,1
+Network 5,Henderson J.,Richardson J.,0
+Network 5,Henderson J.,Clemens G.,0
+Network 5,Henderson J.,Cross R.,0
+Network 5,de Zwaan J.,Searle R.,0
+Network 5,de Zwaan J.,Young D.,0
+Network 5,de Zwaan J.,Kumar N.,0
+Network 5,Telnekes D.,Kenny N.,0
+Network 5,Murray R.,Ilagan L.,0
+Network 5,Hamilton A.,Kurz N.,0
+Network 5,Hopp M.,Mathers G.,0
+Network 5,Hopp M.,van de Pas B.,0
+Network 5,Hopp M.,Noppert D.,0
+Network 5,West S.,Gilitwala A.,0
+Network 5,West S.,Searle R.,0
+Network 5,West S.,North R.,0
+Network 5,West S.,Wattimena J.,0
+Network 5,Asada S.,Mathers G.,0
+Network 5,Webster D.,Yamada Y.,0
+Network 5,Webster D.,Van der Voort V.,0
+Network 5,Webster D.,Petersen D.,0
+Network 5,Payne J.,Portela D.,0
+Network 5,Payne J.,Smith J.,0
+Network 5,Pipe J.,Pratnemer B.,0
+Network 5,Pipe J.,Smith B.,0
+Network 5,Reyes C.,Ilagan L.,0
+Network 5,Reyes C.,Rodriguez R.-J.,0
+Network 5,Reyes C.,Alcinas T.,0
+Network 5,Ward H.,Razma M.,0
+Network 5,van de Pas B.,Dolan B.,0
+Network 5,van de Pas B.,Long J.,0
+Network 5,van de Pas B.,West S.,0
+Network 5,McGeeney M.,Campbell M.,0
+Network 5,Dekker J.,Ashton L.,0
+Network 5,Dekker J.,van den Bergh D.,0
+Network 5,Anderson K.,Zong X. C.,0
+Network 5,Anderson K.,Malicdem N.,0
+Network 5,Anderson K.,Jacques P.,0
+Network 5,Richardson J.,Suzuki M.,0
+Network 5,Monk A.,Justicia J.,0
+Network 5,Zong X. C.,Smith B.,0
+Network 5,Klaasen J.,Burness K.,0
+Network 5,Klaasen J.,Brown K.,0
+Network 5,Klaasen J.,Dekker J.,0
+Network 5,Alcinas T.,van de Pas B.,0
+Network 5,Alcinas T.,Ross C.,0
+Network 5,Alcinas T.,Webster D.,0
+Network 5,Norris A.,Lennon S.,0
+Network 5,Norris A.,Richardson J.,0
+Network 5,Norris A.,Viljanen K.,0
+Network 5,North R.,Marijanovic R.,0
+Network 5,Barnard M.,de Sousa J.,0
+Network 5,de Graaf J.,Malicdem N.,0
+Network 5,Thornton R.,Larsson D.,0
+Network 5,Thornton R.,Dolan B.,0
+Network 5,Tabern A.,Smith R.,0
+Network 5,Stevenson S.,Evetts T.,0
+Network 5,Nicholson P.,Burness K.,0
+Network 5,Taylor P.,Anderson G.,0
+Network 5,Taylor P.,Brown K.,0
+Network 5,Taylor P.,Pipe J.,0
+Network 5,Taylor P.,Dobey C.,0
+Network 5,Munch K.,Alcinas T.,0
+Network 5,Oreshkin A.,Munch K.,0
+Network 5,Webster M.,Lim P.,0
+Network 5,Leung K. F.,Lim P.,0
+Network 5,Bruguier W.,Harris C.,0
+Network 5,Neyens K.,Lewis J.,0
+Network 5,Ljubic A.,Dolan B.,0

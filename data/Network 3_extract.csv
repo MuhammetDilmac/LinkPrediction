@@ -1,0 +1,786 @@
+tournament_year,player1_name,player2_name,weight
+Network 3,Lewis A.,Anderson G.,0
+Network 3,Lewis A.,Van der Voort V.,1
+Network 3,Lewis A.,Thornton R.,0
+Network 3,Lewis A.,Dudbridge M.,0
+Network 3,Lewis A.,Eccles T.,1
+Network 3,Lewis A.,McDine K.,0
+Network 3,Lewis A.,Newton W.,0
+Network 3,Lewis A.,Nicholson P.,0
+Network 3,Lewis A.,Stewart R.,0
+Network 3,Lewis A.,Askew D.,0
+Network 3,Lewis A.,Jenkins A.,0
+Network 3,Lewis A.,Jones W.,0
+Network 3,Lewis A.,Fleet A.,0
+Network 3,Lewis A.,Honey D.,0
+Network 3,Anderson G.,van Barneveld R.,0
+Network 3,Anderson G.,Priestley D.,0
+Network 3,Anderson G.,Hashimoto M.,0
+Network 3,Jenkins T.,Anderson G.,0
+Network 3,Jenkins T.,Walsh M.,0
+Network 3,Jenkins T.,Brown S.,0
+Network 3,Jenkins T.,Cullen J.,0
+Network 3,Jenkins T.,Whitlock S.,0
+Network 3,Jenkins T.,Young D.,0
+Network 3,Jenkins T.,Nicholson P.,0
+Network 3,Jenkins T.,Smith D.,0
+Network 3,Jenkins T.,Shepherd K.,0
+Network 3,Jenkins T.,Hamilton A.,1
+Network 3,Jenkins T.,Wade J.,0
+Network 3,Jenkins T.,Beaton S.,0
+Network 3,Jenkins T.,Lawrence M.,0
+Network 3,Jenkins T.,Mann J.,0
+Network 3,Webster M.,Lewis A.,0
+Network 3,Webster M.,Hylton M.,0
+Network 3,Webster M.,Maish S.,0
+Network 3,Webster M.,van Barneveld R.,0
+Network 3,Webster M.,Manley P.,0
+Network 3,Taylor P.,Webster M.,1
+Network 3,Taylor P.,Wright P.,0
+Network 3,Taylor P.,Laursen P.,0
+Network 3,Taylor P.,Mawson G.,0
+Network 3,Taylor P.,Whitlock S.,0
+Network 3,Taylor P.,Lewis A.,0
+Network 3,Taylor P.,Thornton R.,0
+Network 3,Taylor P.,Hine S.,0
+Network 3,Taylor P.,Monk C.,0
+Network 3,Taylor P.,van Barneveld R.,0
+Network 3,Taylor P.,King M.,0
+Network 3,Taylor P.,Stompe C.,0
+Network 3,Taylor P.,Painter K.,1
+Network 3,Taylor P.,van Gerwen M.,1
+Network 3,Taylor P.,Grubb S.,0
+Network 3,Taylor P.,Mardle W.,1
+Network 3,Taylor P.,Tabern A.,0
+Network 3,Taylor P.,Walsh M.,0
+Network 3,Taylor P.,Hamilton A.,1
+Network 3,Taylor P.,Webster D.,0
+Network 3,Taylor P.,Mason C.,0
+Network 3,Taylor P.,McGowan M.,0
+Network 3,Taylor P.,Pein A.,0
+Network 3,Taylor P.,Clark M.,0
+Network 3,Taylor P.,Platt D.,0
+Network 3,van Barneveld R.,Osborne C.,0
+Network 3,van Barneveld R.,McDine K.,0
+Network 3,van Barneveld R.,Hine S.,0
+Network 3,van Barneveld R.,Whitlock S.,0
+Network 3,van Barneveld R.,Baxter R.,1
+Network 3,van Barneveld R.,Painter K.,1
+Network 3,van Barneveld R.,Dolan B.,0
+Network 3,van Barneveld R.,Parry W.,0
+Network 3,van Barneveld R.,Wade J.,0
+Network 3,van Barneveld R.,Klaasen J.,0
+Network 3,van Barneveld R.,Newton W.,0
+Network 3,van Barneveld R.,Stephenson M.,0
+Network 3,van Barneveld R.,Clark J.,0
+Network 3,van Barneveld R.,Forde A.,0
+Network 3,van Barneveld R.,Taylor P.,0
+Network 3,van Barneveld R.,Jenkins A.,0
+Network 3,van Barneveld R.,Tabern A.,0
+Network 3,van Barneveld R.,Vonck R.,0
+Network 3,van Barneveld R.,Clegg M.,0
+Network 3,Van der Voort V.,Ridd P.,0
+Network 3,Van der Voort V.,Duo D.,0
+Network 3,Van der Voort V.,Bezzeg N.,0
+Network 3,Van der Voort V.,Klaasen J.,0
+Network 3,Newton W.,Jenkins T.,0
+Network 3,Newton W.,Dolan B.,0
+Network 3,Newton W.,Young D.,0
+Network 3,Newton W.,Komula J.,0
+Network 3,Newton W.,Laursen P.,0
+Network 3,Newton W.,Caven J.,0
+Network 3,Newton W.,Wada T.,0
+Network 3,Newton W.,Matsunaga Y.,0
+Network 3,Suljovic M.,Newton W.,0
+Network 3,Suljovic M.,Dudbridge M.,0
+Network 3,Osborne C.,Caven J.,0
+Network 3,Osborne C.,Thompson C.,0
+Network 3,Osborne C.,Whitlock S.,0
+Network 3,Osborne C.,Van der Voort V.,0
+Network 3,Osborne C.,Losper C.,0
+Network 3,Osborne C.,Extercatte E.,0
+Network 3,Osborne C.,Newton W.,0
+Network 3,Whitlock S.,Van der Voort V.,0
+Network 3,Whitlock S.,Ovens D.,0
+Network 3,Whitlock S.,Evans S.,0
+Network 3,Whitlock S.,Wade J.,0
+Network 3,Whitlock S.,Jones W.,0
+Network 3,Walsh M.,Tabern A.,0
+Network 3,Walsh M.,Pipe J.,0
+Network 3,Walsh M.,Webster M.,0
+Network 3,Walsh M.,Caven J.,0
+Network 3,Walsh M.,Vonck R.,0
+Network 3,Walsh M.,Smith D.,0
+Network 3,Walsh M.,Parry W.,0
+Network 3,Smith A.,Anderson G.,0
+Network 3,Smith A.,Tichowitsch S.,0
+Network 3,Smith A.,Young D.,0
+Network 3,Smith A.,Ayres T.,0
+Network 3,Smith A.,Suljovic M.,0
+Network 3,Smith A.,Yongsheng S.,0
+Network 3,Smith A.,Warriner-Little A.,0
+Network 3,Thornton R.,Heydon N.,0
+Network 3,Thornton R.,Artut J.,0
+Network 3,Thornton R.,Perez C.,0
+Network 3,McDine K.,Bates B.,0
+Network 3,King M.,Smith A.,0
+Network 3,King M.,Caris M.,0
+Network 3,King M.,Stompe C.,0
+Network 3,King M.,Clark M.,0
+Network 3,King M.,Bates B.,0
+Network 3,King M.,Walsh M.,0
+Network 3,King M.,Yongsheng S.,0
+Network 3,King M.,Rosenauer M.,0
+Network 3,Priestley D.,Roith B.,0
+Network 3,Priestley D.,McDine K.,0
+Network 3,Priestley D.,Magowan J.,1
+Network 3,Priestley D.,French W.,0
+Network 3,Priestley D.,Maish S.,0
+Network 3,Priestley D.,Hamilton A.,0
+Network 3,Priestley D.,Laursen P.,0
+Network 3,Priestley D.,Schenk J.,0
+Network 3,Priestley D.,Lewis A.,0
+Network 3,Caven J.,Petersen D.,0
+Network 3,Caven J.,Anderson G.,0
+Network 3,Wade J.,Suljovic M.,0
+Network 3,Wade J.,Alcinas T.,0
+Network 3,Wade J.,Hamilton A.,0
+Network 3,Wade J.,van Gerwen M.,0
+Network 3,Wade J.,Brown S.,0
+Network 3,Wade J.,Van der Voort V.,0
+Network 3,Wade J.,Eccles T.,0
+Network 3,Wade J.,Dolan B.,0
+Network 3,Wade J.,Dudbridge M.,0
+Network 3,Wade J.,Beaton S.,0
+Network 3,Wade J.,MacArthur S.,0
+Network 3,Wade J.,Ladley D.,0
+Network 3,Wade J.,French W.,0
+Network 3,Wade J.,Jones W.,0
+Network 3,Ovens D.,Artut J.,0
+Network 3,Ovens D.,Van der Rassel J.,0
+Network 3,Ovens D.,Maish S.,0
+Network 3,Ovens D.,Monk C.,0
+Network 3,Ovens D.,Tabern A.,0
+Network 3,Ovens D.,Smith S.,0
+Network 3,Ovens D.,Alker S.,0
+Network 3,Ovens D.,Wylie G.,0
+Network 3,Jones W.,Van der Voort V.,0
+Network 3,Jones W.,Shepherd K.,0
+Network 3,Jones W.,Roy A.,0
+Network 3,Jones W.,Thornton R.,0
+Network 3,Jones W.,Eccles T.,0
+Network 3,Jones W.,Branks I.,0
+Network 3,Jones W.,Manley P.,0
+Network 3,Jones W.,Alker S.,0
+Network 3,Tabern A.,Burnett R.,0
+Network 3,Tabern A.,Dudbridge M.,0
+Network 3,Tabern A.,MacNeil K.,0
+Network 3,Tabern A.,Stompe C.,0
+Network 3,Tabern A.,Beaton S.,0
+Network 3,Tabern A.,Laursen P.,0
+Network 3,Laursen P.,Krcmar B.,0
+Network 3,Laursen P.,Perez C.,0
+Network 3,Dudbridge M.,Roy A.,0
+Network 3,Dudbridge M.,Welge A.,0
+Network 3,Dudbridge M.,Fullwell N.,0
+Network 3,Dudbridge M.,Hine S.,0
+Network 3,Dudbridge M.,Hamilton A.,0
+Network 3,Dudbridge M.,Kuczynski J.,0
+Network 3,Dudbridge M.,Tabern A.,0
+Network 3,Dudbridge M.,Young D.,0
+Network 3,Lloyd C.,Hylton M.,0
+Network 3,Lloyd C.,Welge A.,0
+Network 3,Lloyd C.,Ovens D.,0
+Network 3,Lloyd C.,Klaasen J.,0
+Network 3,Lloyd C.,Van der Rassel J.,0
+Network 3,Lloyd C.,van Barneveld R.,0
+Network 3,Lloyd C.,Seyler T.,0
+Network 3,Lloyd C.,Welding G.,0
+Network 3,Hamilton A.,Thornton R.,0
+Network 3,Hamilton A.,Smith D.,0
+Network 3,Hamilton A.,Beaton S.,0
+Network 3,Hamilton A.,Kijamet O.,0
+Network 3,Hamilton A.,Klaasen J.,0
+Network 3,Hamilton A.,Ayres T.,0
+Network 3,Hamilton A.,Barnard M.,0
+Network 3,Hamilton A.,Roy A.,0
+Network 3,Hamilton A.,Kwadijk L.,0
+Network 3,Hamilton A.,Welding G.,0
+Network 3,Nicholson P.,Wright P.,0
+Network 3,Nicholson P.,Farmer S.,0
+Network 3,Nicholson P.,Wade J.,0
+Network 3,Nicholson P.,Priestley D.,0
+Network 3,Baxter R.,Webster M.,0
+Network 3,Baxter R.,Scholten R.,0
+Network 3,Baxter R.,Lloyd C.,0
+Network 3,Baxter R.,Anderson G.,0
+Network 3,Baxter R.,Muramatsu H.,0
+Network 3,Baxter R.,Ovens D.,0
+Network 3,Baxter R.,Kantele M.,0
+Network 3,Baxter R.,Dudbridge M.,0
+Network 3,Baxter R.,Olson D.,0
+Network 3,Baxter R.,Gray A.,0
+Network 3,Baxter R.,Carver R.,0
+Network 3,Caris M.,Burger D.,0
+Network 3,Caris M.,Ruiz F.,0
+Network 3,Petersen D.,Madhoo N.,0
+Network 3,Bates B.,McDine K.,0
+Network 3,Bates B.,Dudbridge M.,0
+Network 3,Bates B.,McBrearty F.,0
+Network 3,Bates B.,Extercatte E.,0
+Network 3,Bates B.,Convery G.,0
+Network 3,Bates B.,Cyr B.,0
+Network 3,Klaasen J.,Brown S.,0
+Network 3,Klaasen J.,Bates B.,0
+Network 3,Klaasen J.,Van der Rassel J.,0
+Network 3,Mansell M.,Ridd P.,0
+Network 3,van Gerwen M.,Suljovic M.,0
+Network 3,van Gerwen M.,Wright P.,0
+Network 3,van Gerwen M.,Young D.,0
+Network 3,Artut J.,MacKenzie S.,0
+Network 3,Painter K.,Dolan B.,0
+Network 3,Painter K.,Van der Voort V.,0
+Network 3,Painter K.,Suljovic M.,0
+Network 3,Painter K.,Clark M.,0
+Network 3,Painter K.,Part J.,0
+Network 3,Painter K.,Lewis A.,0
+Network 3,Painter K.,Mason C.,0
+Network 3,Painter K.,Mawson G.,0
+Network 3,Painter K.,Osborne C.,0
+Network 3,Painter K.,Dudbridge M.,0
+Network 3,Painter K.,Newton W.,0
+Network 3,Painter K.,Newton D.,0
+Network 3,Part J.,Laursen P.,0
+Network 3,Part J.,Shepherd K.,0
+Network 3,Part J.,Greebe T.,0
+Network 3,Part J.,Davis B.,0
+Network 3,Part J.,Wade J.,0
+Network 3,Part J.,Suljovic M.,0
+Network 3,Part J.,Losper C.,0
+Network 3,Part J.,Green A.,0
+Network 3,Part J.,Mason C.,0
+Network 3,Part J.,Liu C. A.,0
+Network 3,Shepherd K.,Webster M.,0
+Network 3,Shepherd K.,Burnett S.,0
+Network 3,Shepherd K.,Van der Rassel J.,0
+Network 3,Shepherd K.,Part J.,0
+Network 3,Shepherd K.,Bates B.,0
+Network 3,Shepherd K.,McGowan M.,0
+Network 3,Roy A.,McDine K.,0
+Network 3,Roy A.,Part J.,0
+Network 3,Roy A.,Parry W.,0
+Network 3,Roy A.,Burnett R.,0
+Network 3,Roy A.,Tabern A.,0
+Network 3,Padgett M.,Hashimoto M.,0
+Network 3,Smith D.,King M.,0
+Network 3,Smith D.,McDine K.,0
+Network 3,Smith D.,Salmon M.,0
+Network 3,Scholten R.,Viinikka V.,0
+Network 3,Scholten R.,Hine S.,0
+Network 3,Scholten R.,Rodriguez C.,0
+Network 3,Scholten R.,Mardle W.,0
+Network 3,Scholten R.,King M.,0
+Network 3,Scholten R.,Clark M.,0
+Network 3,Scholten R.,Osborne C.,0
+Network 3,Scholten R.,Roy A.,0
+Network 3,Scholten R.,Miller R.,0
+Network 3,Scholten R.,Lewis A.,0
+Network 3,Scholten R.,Seyler T.,0
+Network 3,Scholten R.,Whitcombe D.,0
+Network 3,Eccles T.,Dolan B.,0
+Network 3,Eccles T.,Van Eijden R.,0
+Network 3,Stompe C.,Wright P.,0
+Network 3,Stompe C.,Webster M.,0
+Network 3,Stompe C.,Dudbridge M.,0
+Network 3,Stompe C.,Maish S.,0
+Network 3,Mawson G.,Gionzon J.,0
+Network 3,Maish S.,Eccles T.,0
+Network 3,Maish S.,Havenga W.,0
+Network 3,Maish S.,Clark J.,0
+Network 3,Beaton S.,Hylton M.,0
+Network 3,Beaton S.,Rodriguez C.,0
+Network 3,Beaton S.,Evans S.,0
+Network 3,Beaton S.,Convery G.,0
+Network 3,Beaton S.,Van der Rassel J.,0
+Network 3,Manley P.,Jenkins A.,0
+Network 3,Manley P.,Suljovic M.,0
+Network 3,Manley P.,Shepherd K.,0
+Network 3,Manley P.,Van der Rassel J.,0
+Network 3,Manley P.,Warriner-Little A.,0
+Network 3,Manley P.,Greebe T.,0
+Network 3,Manley P.,Havenga W.,0
+Network 3,Manley P.,Jowett D.,0
+Network 3,Manley P.,Taylor P.,0
+Network 3,Manley P.,Lewis A.,0
+Network 3,Manley P.,Smith D.,0
+Network 3,Manley P.,Clark J.,0
+Network 3,Manley P.,Spiolek K.,0
+Network 3,Van der Rassel J.,Ovens D.,0
+Network 3,Rodriguez C.,Painter K.,0
+Network 3,Seyler T.,Yongsheng S.,0
+Network 3,Muramatsu H.,Kciuk K.,0
+Network 3,Hazel P.,Kijamet O.,0
+Network 3,MacNeil K.,Madhoo N.,0
+Network 3,Jenkins A.,Stompe C.,0
+Network 3,Jenkins A.,Tabern A.,0
+Network 3,Jenkins A.,Navratil M.,0
+Network 3,Jenkins A.,Osborne C.,0
+Network 3,Jenkins A.,Smith A.,0
+Network 3,Jenkins A.,Davis B.,0
+Network 3,Jenkins A.,Jones W.,0
+Network 3,Jenkins A.,Bulen P.,0
+Network 3,O'Neill A.,Francis L.,0
+Network 3,Clark M.,McGowan M.,0
+Network 3,Clark M.,Woods K.,0
+Network 3,Komula J.,Konchikov R.,0
+Network 3,Monk C.,Laursen P.,0
+Network 3,Monk C.,Smith A.,0
+Network 3,Mardle W.,Artut J.,0
+Network 3,Mardle W.,Stompe C.,0
+Network 3,Mardle W.,Thornton R.,0
+Network 3,Mardle W.,Fatum D.,0
+Network 3,Mardle W.,Shepherd K.,0
+Network 3,Mardle W.,Caven J.,0
+Network 3,Mardle W.,Carver R.,0
+Network 3,Mardle W.,Caves A.,0
+Network 3,Mardle W.,Warriner-Little A.,0
+Network 3,Mardle W.,Part J.,0
+Network 3,Mardle W.,Clarys E.,0
+Network 3,Mardle W.,Roach B.,0
+Network 3,Davis B.,Bates B.,0
+Network 3,Kantele M.,Ilagan L.,0
+Network 3,Van Eijden R.,Dobromyslova A.,0
+Network 3,Gray A.,Nicholson P.,0
+Network 3,Gray A.,Walsh M.,0
+Network 3,Gray A.,Webster D.,0
+Network 3,Losper C.,Fitzgerald S.,0
+Network 3,Mason C.,Magowan J.,0
+Network 3,Mason C.,Brown S.,0
+Network 3,Mason C.,Part J.,0
+Network 3,Mason C.,Atwood W.,0
+Network 3,Mason C.,Hine S.,0
+Network 3,Fatum D.,O'Connor S.,0
+Network 3,French W.,Nagakawa A.,0
+Network 3,Nagakawa A.,Forde A.,0
+Network 3,Schnier H.,Yongsheng S.,0
+Network 3,McGowan M.,Barry J.,0
+Network 3,Warriner-Little A.,Yongsheng S.,0
+Network 3,Warriner-Little A.,Tabern A.,0
+Network 3,Warriner-Little A.,Convery G.,0
+Network 3,Warriner-Little A.,Welge A.,0
+Network 3,Askew D.,Tabern A.,0
+Network 3,Askew D.,Burchell M.,0
+Network 3,Askew D.,Convery G.,0
+Network 3,Anderson B.,Clark J.,0
+Network 3,Anderson B.,Webster D.,0
+Network 3,Anderson B.,Hamilton A.,0
+Network 3,Barellano R.,Navratil M.,0
+Network 3,Bolton A.,Extercatte E.,0
+Network 3,Sayed A.,Yongsheng S.,0
+Network 3,Carver R.,Smith A.,0
+Network 3,Webster D.,Extercatte E.,0
+Network 3,Havenga W.,Webster D.,0
+Network 3,Vonck R.,Cyr B.,0
+Network 3,Caves A.,Askew D.,0
+Network 3,Caves A.,Alker S.,0
+Network 3,Kuczynski J.,Van der Rassel J.,0
+Network 3,Welding G.,Jones W.,0
+Network 3,Welding G.,Kuczynski J.,0
+Network 3,Welding G.,Extercatte E.,0
+Network 3,Sams L.,Ladley D.,0
+Network 3,Sams L.,Kuczynski J.,0
+Network 3,Clarys E.,Cadogan W.,0
+Network 3,Harvey J.,Seyler T.,0
+tournament_year,player1_name,player2_name,weight
+Network 3,Lewis A.,Anderson G.,0
+Network 3,Lewis A.,Van der Voort V.,1
+Network 3,Lewis A.,Thornton R.,0
+Network 3,Lewis A.,Dudbridge M.,0
+Network 3,Lewis A.,Eccles T.,1
+Network 3,Lewis A.,McDine K.,0
+Network 3,Lewis A.,Newton W.,0
+Network 3,Lewis A.,Nicholson P.,0
+Network 3,Lewis A.,Stewart R.,0
+Network 3,Lewis A.,Askew D.,0
+Network 3,Lewis A.,Jenkins A.,0
+Network 3,Lewis A.,Jones W.,0
+Network 3,Lewis A.,Fleet A.,0
+Network 3,Lewis A.,Honey D.,0
+Network 3,Anderson G.,van Barneveld R.,0
+Network 3,Anderson G.,Priestley D.,0
+Network 3,Anderson G.,Hashimoto M.,0
+Network 3,Jenkins T.,Anderson G.,0
+Network 3,Jenkins T.,Walsh M.,0
+Network 3,Jenkins T.,Brown S.,0
+Network 3,Jenkins T.,Cullen J.,0
+Network 3,Jenkins T.,Whitlock S.,0
+Network 3,Jenkins T.,Young D.,0
+Network 3,Jenkins T.,Nicholson P.,0
+Network 3,Jenkins T.,Smith D.,0
+Network 3,Jenkins T.,Shepherd K.,0
+Network 3,Jenkins T.,Hamilton A.,1
+Network 3,Jenkins T.,Wade J.,0
+Network 3,Jenkins T.,Beaton S.,0
+Network 3,Jenkins T.,Lawrence M.,0
+Network 3,Jenkins T.,Mann J.,0
+Network 3,Webster M.,Lewis A.,0
+Network 3,Webster M.,Hylton M.,0
+Network 3,Webster M.,Maish S.,0
+Network 3,Webster M.,van Barneveld R.,0
+Network 3,Webster M.,Manley P.,0
+Network 3,Taylor P.,Webster M.,1
+Network 3,Taylor P.,Wright P.,0
+Network 3,Taylor P.,Laursen P.,0
+Network 3,Taylor P.,Mawson G.,0
+Network 3,Taylor P.,Whitlock S.,0
+Network 3,Taylor P.,Lewis A.,0
+Network 3,Taylor P.,Thornton R.,0
+Network 3,Taylor P.,Hine S.,0
+Network 3,Taylor P.,Monk C.,0
+Network 3,Taylor P.,van Barneveld R.,0
+Network 3,Taylor P.,King M.,0
+Network 3,Taylor P.,Stompe C.,0
+Network 3,Taylor P.,Painter K.,1
+Network 3,Taylor P.,van Gerwen M.,1
+Network 3,Taylor P.,Grubb S.,0
+Network 3,Taylor P.,Mardle W.,1
+Network 3,Taylor P.,Tabern A.,0
+Network 3,Taylor P.,Walsh M.,0
+Network 3,Taylor P.,Hamilton A.,1
+Network 3,Taylor P.,Webster D.,0
+Network 3,Taylor P.,Mason C.,0
+Network 3,Taylor P.,McGowan M.,0
+Network 3,Taylor P.,Pein A.,0
+Network 3,Taylor P.,Clark M.,0
+Network 3,Taylor P.,Platt D.,0
+Network 3,van Barneveld R.,Osborne C.,0
+Network 3,van Barneveld R.,McDine K.,0
+Network 3,van Barneveld R.,Hine S.,0
+Network 3,van Barneveld R.,Whitlock S.,0
+Network 3,van Barneveld R.,Baxter R.,1
+Network 3,van Barneveld R.,Painter K.,1
+Network 3,van Barneveld R.,Dolan B.,0
+Network 3,van Barneveld R.,Parry W.,0
+Network 3,van Barneveld R.,Wade J.,0
+Network 3,van Barneveld R.,Klaasen J.,0
+Network 3,van Barneveld R.,Newton W.,0
+Network 3,van Barneveld R.,Stephenson M.,0
+Network 3,van Barneveld R.,Clark J.,0
+Network 3,van Barneveld R.,Forde A.,0
+Network 3,van Barneveld R.,Taylor P.,0
+Network 3,van Barneveld R.,Jenkins A.,0
+Network 3,van Barneveld R.,Tabern A.,0
+Network 3,van Barneveld R.,Vonck R.,0
+Network 3,van Barneveld R.,Clegg M.,0
+Network 3,Van der Voort V.,Ridd P.,0
+Network 3,Van der Voort V.,Duo D.,0
+Network 3,Van der Voort V.,Bezzeg N.,0
+Network 3,Van der Voort V.,Klaasen J.,0
+Network 3,Newton W.,Jenkins T.,0
+Network 3,Newton W.,Dolan B.,0
+Network 3,Newton W.,Young D.,0
+Network 3,Newton W.,Komula J.,0
+Network 3,Newton W.,Laursen P.,0
+Network 3,Newton W.,Caven J.,0
+Network 3,Newton W.,Wada T.,0
+Network 3,Newton W.,Matsunaga Y.,0
+Network 3,Suljovic M.,Newton W.,0
+Network 3,Suljovic M.,Dudbridge M.,0
+Network 3,Osborne C.,Caven J.,0
+Network 3,Osborne C.,Thompson C.,0
+Network 3,Osborne C.,Whitlock S.,0
+Network 3,Osborne C.,Van der Voort V.,0
+Network 3,Osborne C.,Losper C.,0
+Network 3,Osborne C.,Extercatte E.,0
+Network 3,Osborne C.,Newton W.,0
+Network 3,Whitlock S.,Van der Voort V.,0
+Network 3,Whitlock S.,Ovens D.,0
+Network 3,Whitlock S.,Evans S.,0
+Network 3,Whitlock S.,Wade J.,0
+Network 3,Whitlock S.,Jones W.,0
+Network 3,Walsh M.,Tabern A.,0
+Network 3,Walsh M.,Pipe J.,0
+Network 3,Walsh M.,Webster M.,0
+Network 3,Walsh M.,Caven J.,0
+Network 3,Walsh M.,Vonck R.,0
+Network 3,Walsh M.,Smith D.,0
+Network 3,Walsh M.,Parry W.,0
+Network 3,Smith A.,Anderson G.,0
+Network 3,Smith A.,Tichowitsch S.,0
+Network 3,Smith A.,Young D.,0
+Network 3,Smith A.,Ayres T.,0
+Network 3,Smith A.,Suljovic M.,0
+Network 3,Smith A.,Yongsheng S.,0
+Network 3,Smith A.,Warriner-Little A.,0
+Network 3,Thornton R.,Heydon N.,0
+Network 3,Thornton R.,Artut J.,0
+Network 3,Thornton R.,Perez C.,0
+Network 3,McDine K.,Bates B.,0
+Network 3,King M.,Smith A.,0
+Network 3,King M.,Caris M.,0
+Network 3,King M.,Stompe C.,0
+Network 3,King M.,Clark M.,0
+Network 3,King M.,Bates B.,0
+Network 3,King M.,Walsh M.,0
+Network 3,King M.,Yongsheng S.,0
+Network 3,King M.,Rosenauer M.,0
+Network 3,Priestley D.,Roith B.,0
+Network 3,Priestley D.,McDine K.,0
+Network 3,Priestley D.,Magowan J.,1
+Network 3,Priestley D.,French W.,0
+Network 3,Priestley D.,Maish S.,0
+Network 3,Priestley D.,Hamilton A.,0
+Network 3,Priestley D.,Laursen P.,0
+Network 3,Priestley D.,Schenk J.,0
+Network 3,Priestley D.,Lewis A.,0
+Network 3,Caven J.,Petersen D.,0
+Network 3,Caven J.,Anderson G.,0
+Network 3,Wade J.,Suljovic M.,0
+Network 3,Wade J.,Alcinas T.,0
+Network 3,Wade J.,Hamilton A.,0
+Network 3,Wade J.,van Gerwen M.,0
+Network 3,Wade J.,Brown S.,0
+Network 3,Wade J.,Van der Voort V.,0
+Network 3,Wade J.,Eccles T.,0
+Network 3,Wade J.,Dolan B.,0
+Network 3,Wade J.,Dudbridge M.,0
+Network 3,Wade J.,Beaton S.,0
+Network 3,Wade J.,MacArthur S.,0
+Network 3,Wade J.,Ladley D.,0
+Network 3,Wade J.,French W.,0
+Network 3,Wade J.,Jones W.,0
+Network 3,Ovens D.,Artut J.,0
+Network 3,Ovens D.,Van der Rassel J.,0
+Network 3,Ovens D.,Maish S.,0
+Network 3,Ovens D.,Monk C.,0
+Network 3,Ovens D.,Tabern A.,0
+Network 3,Ovens D.,Smith S.,0
+Network 3,Ovens D.,Alker S.,0
+Network 3,Ovens D.,Wylie G.,0
+Network 3,Jones W.,Van der Voort V.,0
+Network 3,Jones W.,Shepherd K.,0
+Network 3,Jones W.,Roy A.,0
+Network 3,Jones W.,Thornton R.,0
+Network 3,Jones W.,Eccles T.,0
+Network 3,Jones W.,Branks I.,0
+Network 3,Jones W.,Manley P.,0
+Network 3,Jones W.,Alker S.,0
+Network 3,Tabern A.,Burnett R.,0
+Network 3,Tabern A.,Dudbridge M.,0
+Network 3,Tabern A.,MacNeil K.,0
+Network 3,Tabern A.,Stompe C.,0
+Network 3,Tabern A.,Beaton S.,0
+Network 3,Tabern A.,Laursen P.,0
+Network 3,Laursen P.,Krcmar B.,0
+Network 3,Laursen P.,Perez C.,0
+Network 3,Dudbridge M.,Roy A.,0
+Network 3,Dudbridge M.,Welge A.,0
+Network 3,Dudbridge M.,Fullwell N.,0
+Network 3,Dudbridge M.,Hine S.,0
+Network 3,Dudbridge M.,Hamilton A.,0
+Network 3,Dudbridge M.,Kuczynski J.,0
+Network 3,Dudbridge M.,Tabern A.,0
+Network 3,Dudbridge M.,Young D.,0
+Network 3,Lloyd C.,Hylton M.,0
+Network 3,Lloyd C.,Welge A.,0
+Network 3,Lloyd C.,Ovens D.,0
+Network 3,Lloyd C.,Klaasen J.,0
+Network 3,Lloyd C.,Van der Rassel J.,0
+Network 3,Lloyd C.,van Barneveld R.,0
+Network 3,Lloyd C.,Seyler T.,0
+Network 3,Lloyd C.,Welding G.,0
+Network 3,Hamilton A.,Thornton R.,0
+Network 3,Hamilton A.,Smith D.,0
+Network 3,Hamilton A.,Beaton S.,0
+Network 3,Hamilton A.,Kijamet O.,0
+Network 3,Hamilton A.,Klaasen J.,0
+Network 3,Hamilton A.,Ayres T.,0
+Network 3,Hamilton A.,Barnard M.,0
+Network 3,Hamilton A.,Roy A.,0
+Network 3,Hamilton A.,Kwadijk L.,0
+Network 3,Hamilton A.,Welding G.,0
+Network 3,Nicholson P.,Wright P.,0
+Network 3,Nicholson P.,Farmer S.,0
+Network 3,Nicholson P.,Wade J.,0
+Network 3,Nicholson P.,Priestley D.,0
+Network 3,Baxter R.,Webster M.,0
+Network 3,Baxter R.,Scholten R.,0
+Network 3,Baxter R.,Lloyd C.,0
+Network 3,Baxter R.,Anderson G.,0
+Network 3,Baxter R.,Muramatsu H.,0
+Network 3,Baxter R.,Ovens D.,0
+Network 3,Baxter R.,Kantele M.,0
+Network 3,Baxter R.,Dudbridge M.,0
+Network 3,Baxter R.,Olson D.,0
+Network 3,Baxter R.,Gray A.,0
+Network 3,Baxter R.,Carver R.,0
+Network 3,Caris M.,Burger D.,0
+Network 3,Caris M.,Ruiz F.,0
+Network 3,Petersen D.,Madhoo N.,0
+Network 3,Bates B.,McDine K.,0
+Network 3,Bates B.,Dudbridge M.,0
+Network 3,Bates B.,McBrearty F.,0
+Network 3,Bates B.,Extercatte E.,0
+Network 3,Bates B.,Convery G.,0
+Network 3,Bates B.,Cyr B.,0
+Network 3,Klaasen J.,Brown S.,0
+Network 3,Klaasen J.,Bates B.,0
+Network 3,Klaasen J.,Van der Rassel J.,0
+Network 3,Mansell M.,Ridd P.,0
+Network 3,van Gerwen M.,Suljovic M.,0
+Network 3,van Gerwen M.,Wright P.,0
+Network 3,van Gerwen M.,Young D.,0
+Network 3,Artut J.,MacKenzie S.,0
+Network 3,Painter K.,Dolan B.,0
+Network 3,Painter K.,Van der Voort V.,0
+Network 3,Painter K.,Suljovic M.,0
+Network 3,Painter K.,Clark M.,0
+Network 3,Painter K.,Part J.,0
+Network 3,Painter K.,Lewis A.,0
+Network 3,Painter K.,Mason C.,0
+Network 3,Painter K.,Mawson G.,0
+Network 3,Painter K.,Osborne C.,0
+Network 3,Painter K.,Dudbridge M.,0
+Network 3,Painter K.,Newton W.,0
+Network 3,Painter K.,Newton D.,0
+Network 3,Part J.,Laursen P.,0
+Network 3,Part J.,Shepherd K.,0
+Network 3,Part J.,Greebe T.,0
+Network 3,Part J.,Davis B.,0
+Network 3,Part J.,Wade J.,0
+Network 3,Part J.,Suljovic M.,0
+Network 3,Part J.,Losper C.,0
+Network 3,Part J.,Green A.,0
+Network 3,Part J.,Mason C.,0
+Network 3,Part J.,Liu C. A.,0
+Network 3,Shepherd K.,Webster M.,0
+Network 3,Shepherd K.,Burnett S.,0
+Network 3,Shepherd K.,Van der Rassel J.,0
+Network 3,Shepherd K.,Part J.,0
+Network 3,Shepherd K.,Bates B.,0
+Network 3,Shepherd K.,McGowan M.,0
+Network 3,Roy A.,McDine K.,0
+Network 3,Roy A.,Part J.,0
+Network 3,Roy A.,Parry W.,0
+Network 3,Roy A.,Burnett R.,0
+Network 3,Roy A.,Tabern A.,0
+Network 3,Padgett M.,Hashimoto M.,0
+Network 3,Smith D.,King M.,0
+Network 3,Smith D.,McDine K.,0
+Network 3,Smith D.,Salmon M.,0
+Network 3,Scholten R.,Viinikka V.,0
+Network 3,Scholten R.,Hine S.,0
+Network 3,Scholten R.,Rodriguez C.,0
+Network 3,Scholten R.,Mardle W.,0
+Network 3,Scholten R.,King M.,0
+Network 3,Scholten R.,Clark M.,0
+Network 3,Scholten R.,Osborne C.,0
+Network 3,Scholten R.,Roy A.,0
+Network 3,Scholten R.,Miller R.,0
+Network 3,Scholten R.,Lewis A.,0
+Network 3,Scholten R.,Seyler T.,0
+Network 3,Scholten R.,Whitcombe D.,0
+Network 3,Eccles T.,Dolan B.,0
+Network 3,Eccles T.,Van Eijden R.,0
+Network 3,Stompe C.,Wright P.,0
+Network 3,Stompe C.,Webster M.,0
+Network 3,Stompe C.,Dudbridge M.,0
+Network 3,Stompe C.,Maish S.,0
+Network 3,Mawson G.,Gionzon J.,0
+Network 3,Maish S.,Eccles T.,0
+Network 3,Maish S.,Havenga W.,0
+Network 3,Maish S.,Clark J.,0
+Network 3,Beaton S.,Hylton M.,0
+Network 3,Beaton S.,Rodriguez C.,0
+Network 3,Beaton S.,Evans S.,0
+Network 3,Beaton S.,Convery G.,0
+Network 3,Beaton S.,Van der Rassel J.,0
+Network 3,Manley P.,Jenkins A.,0
+Network 3,Manley P.,Suljovic M.,0
+Network 3,Manley P.,Shepherd K.,0
+Network 3,Manley P.,Van der Rassel J.,0
+Network 3,Manley P.,Warriner-Little A.,0
+Network 3,Manley P.,Greebe T.,0
+Network 3,Manley P.,Havenga W.,0
+Network 3,Manley P.,Jowett D.,0
+Network 3,Manley P.,Taylor P.,0
+Network 3,Manley P.,Lewis A.,0
+Network 3,Manley P.,Smith D.,0
+Network 3,Manley P.,Clark J.,0
+Network 3,Manley P.,Spiolek K.,0
+Network 3,Van der Rassel J.,Ovens D.,0
+Network 3,Rodriguez C.,Painter K.,0
+Network 3,Seyler T.,Yongsheng S.,0
+Network 3,Muramatsu H.,Kciuk K.,0
+Network 3,Hazel P.,Kijamet O.,0
+Network 3,MacNeil K.,Madhoo N.,0
+Network 3,Jenkins A.,Stompe C.,0
+Network 3,Jenkins A.,Tabern A.,0
+Network 3,Jenkins A.,Navratil M.,0
+Network 3,Jenkins A.,Osborne C.,0
+Network 3,Jenkins A.,Smith A.,0
+Network 3,Jenkins A.,Davis B.,0
+Network 3,Jenkins A.,Jones W.,0
+Network 3,Jenkins A.,Bulen P.,0
+Network 3,O'Neill A.,Francis L.,0
+Network 3,Clark M.,McGowan M.,0
+Network 3,Clark M.,Woods K.,0
+Network 3,Komula J.,Konchikov R.,0
+Network 3,Monk C.,Laursen P.,0
+Network 3,Monk C.,Smith A.,0
+Network 3,Mardle W.,Artut J.,0
+Network 3,Mardle W.,Stompe C.,0
+Network 3,Mardle W.,Thornton R.,0
+Network 3,Mardle W.,Fatum D.,0
+Network 3,Mardle W.,Shepherd K.,0
+Network 3,Mardle W.,Caven J.,0
+Network 3,Mardle W.,Carver R.,0
+Network 3,Mardle W.,Caves A.,0
+Network 3,Mardle W.,Warriner-Little A.,0
+Network 3,Mardle W.,Part J.,0
+Network 3,Mardle W.,Clarys E.,0
+Network 3,Mardle W.,Roach B.,0
+Network 3,Davis B.,Bates B.,0
+Network 3,Kantele M.,Ilagan L.,0
+Network 3,Van Eijden R.,Dobromyslova A.,0
+Network 3,Gray A.,Nicholson P.,0
+Network 3,Gray A.,Walsh M.,0
+Network 3,Gray A.,Webster D.,0
+Network 3,Losper C.,Fitzgerald S.,0
+Network 3,Mason C.,Magowan J.,0
+Network 3,Mason C.,Brown S.,0
+Network 3,Mason C.,Part J.,0
+Network 3,Mason C.,Atwood W.,0
+Network 3,Mason C.,Hine S.,0
+Network 3,Fatum D.,O'Connor S.,0
+Network 3,French W.,Nagakawa A.,0
+Network 3,Nagakawa A.,Forde A.,0
+Network 3,Schnier H.,Yongsheng S.,0
+Network 3,McGowan M.,Barry J.,0
+Network 3,Warriner-Little A.,Yongsheng S.,0
+Network 3,Warriner-Little A.,Tabern A.,0
+Network 3,Warriner-Little A.,Convery G.,0
+Network 3,Warriner-Little A.,Welge A.,0
+Network 3,Askew D.,Tabern A.,0
+Network 3,Askew D.,Burchell M.,0
+Network 3,Askew D.,Convery G.,0
+Network 3,Anderson B.,Clark J.,0
+Network 3,Anderson B.,Webster D.,0
+Network 3,Anderson B.,Hamilton A.,0
+Network 3,Barellano R.,Navratil M.,0
+Network 3,Bolton A.,Extercatte E.,0
+Network 3,Sayed A.,Yongsheng S.,0
+Network 3,Carver R.,Smith A.,0
+Network 3,Webster D.,Extercatte E.,0
+Network 3,Havenga W.,Webster D.,0
+Network 3,Vonck R.,Cyr B.,0
+Network 3,Caves A.,Askew D.,0
+Network 3,Caves A.,Alker S.,0
+Network 3,Kuczynski J.,Van der Rassel J.,0
+Network 3,Welding G.,Jones W.,0
+Network 3,Welding G.,Kuczynski J.,0
+Network 3,Welding G.,Extercatte E.,0
+Network 3,Sams L.,Ladley D.,0
+Network 3,Sams L.,Kuczynski J.,0
+Network 3,Clarys E.,Cadogan W.,0
+Network 3,Harvey J.,Seyler T.,0

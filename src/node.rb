@@ -21,8 +21,9 @@ class Node
     edge = neighbor?(node)
 
     if edge.nil?
-      edge = Edge.new(from: self, to: node)
+      edge = Edge.new(from: self, to: node, weight: 1)
       @edges.push(edge)
+      node.edges.push(edge)
     else
       edge.increment_weight!
     end

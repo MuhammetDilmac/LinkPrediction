@@ -10,3 +10,5 @@ gem 'nokogiri', '~> 1.13'
 gem 'rubocop', '~> 1.27'
 
 gem 'rubocop-performance', '~> 1.13'
+
+gem "terminal-table", "~> 3.0"
